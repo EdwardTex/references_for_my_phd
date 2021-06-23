@@ -82,4 +82,70 @@
 
 [GT37] Hamiltonian Circuit
 
-[]
+[GT38] Directed Hamiltonian Circuit
+
+[GT39] Hamiltonian Path
+
+[GT40] Bandwidth
+
+[GT41] Directed Bandwidth
+
+[GT42] Optimal Linear Arrangement
+
+[GT43] Directed Optimal Linear Arrangement
+
+[GT44] Minimum Cut Linear Arrangement
+
+[GT45] Rooted Tree Arrangement
+
+[GT46] Directed Elimination Ordering
+
+[GT47] Elimination Degree Sequence
+
+### A1.4 Iso- and Other Morphisms
+
+[GT48] Subgraph Isomorphism
+
+[GT49] Largest Common Subgraph
+
+[GT50] Maximum Subgraph Matching
+
+[GT51] Graph Contractability
+
+[GT52] Graph Homomorphism
+
+[GT53] Digraph D-Morphism
+
+### A1.5 Miscellaneous
+
+[GT54] Path With Forbidden Pairs
+
+[GT55] Multiple Choice Matching
+
+[GT56] Graph Grundy Numbering
+
+[GT57] Kernel
+
+[GT58] K-Closure
+
+[GT59] Intersection Graph Basis
+
+[GT60] Path Distinguishers
+
+[GT61] Metric Dimension
+
+[GT62] Nestrial-Rodl Dimension
+
+[GT63] Threshold Number
+
+[GT64] Oriented Diameter
+
+[GT65] Weighted Diameter
+
+## A2 Network Design
+
+### A2.1 Spanning Trees
+
+[ND1] Degree Constrained Spanning Tree
+
+[ND2] Maxinum Leaf Spanning Tree
