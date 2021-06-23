@@ -47,3 +47,39 @@
 [GT20] Independent Set
 
 [GT21] Induced Subgraph With Property $\Pi$
+
+[GT22] Induced Connected Subgraph With Property $\Pi$
+
+[GT23] Induced Path
+
+[GT24] Balanced Complete Bipartite Subgraph
+
+[GT25] Bipartite Subgraph
+
+[GT26] Degree-Bounded Connected Subgraph
+
+[GT27] Planar Subgraph
+
+[GT28] Edge-Subgraph
+
+[GT29] Transitive Subgraph
+
+[GT30] Unconnected Subgraph
+
+[GT31] Minimum K-Connected Subgraph
+
+[GT32] Cubic Subgraph
+
+[GT33] Minimum Equivalent Digraph
+
+[GT34] Hamiltonian Completion
+
+[GT35] Interval Graph Completion
+
+[GT36] Path Graph Completion
+
+### A1.3 Vertex Ordering
+
+[GT37] Hamiltonian Circuit
+
+[]
