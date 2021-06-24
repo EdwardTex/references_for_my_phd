@@ -455,3 +455,158 @@
 [MP8] Traveling Salesman Polytope Non-Adjacency
 
 [MP9] Knapsack
+
+[MP10] Integer Knapsack
+
+[MP11] Continuous Multiple Choice knapsack
+
+[MP12] Parially Ordered Knapsack
+
+[MP13] Comparative Vector Inequalities
+
+## A7 Algebra and Number Theory
+
+### A7.1 Divisibility Problems
+
+[AN1] Quadratic Congruences
+
+[AN2] Simultaneous Incongruences
+
+[AN3] Simlutaneous Divisibility of Linear Polynomials
+
+[AN4] Comparative Divisibility
+
+[AN5] Exponential Expression Divisibility
+
+[AN6] Non-Divisibility of A Product Polynomial
+
+[AN7] Non-Trivial Greatest Common Divisor
+
+### A7.2 Solvability of Equations
+
+[AN8] Quadratic Diophantine Equations
+
+[AN9] Algebraic Equations Over GF
+
+[AN10] Root of Modulus 1
+
+[AN11] Number of Roots For A Product Polynomial
+
+[AN12] Periodic Solution Recurrence Relation
+
+### A7.3 Miscellaneous
+
+[AN13] Permanent Evaluation
+
+[AN14] Cosine Product Integration
+
+[AN15] Equilibrium Point
+
+[AN16] Unification With Commutative Operators
+
+[AN17] Unification For Finitely Presented Algebras
+
+[AN18] Integer Expression Membership
+
+## A8 Games and Puzzles
+
+[GP1] Generalized Hex
+
+[GP2] Generalized Geography
+
+[GP3] Generalized Kayles
+
+[GP4] Sequential Truth Assignment
+
+[GP5] Variable Partition Truth Assignment
+
+[GP6] Sift
+
+[GP7] Alternating Hitting Set
+
+[GP8] Alternating Maximum Weighted Matching
+
+[GP9] Annihilation
+
+[GP10] N\*N Checkers
+
+[GP11] N\*N Go
+
+[GP12] Left-Right Hackernbush For Redwood Furniture
+
+[GP13] Square-Tiling
+
+[GP14] Crossword Puzzle Construction
+
+[GP15] Generalized Instant Insanity
+
+## A9 Logic
+
+### A9.1 Propositional Logic
+
+[LO1] Satisfiability
+
+[LO2] 3-Satisfiability (3SAT)
+
+[LO3] Not-All-Equal 3SAT
+
+[LO4] One-In-Three 3SAT
+
+[LO5] Maximum 2-Satisfiability
+
+[LO6] Generalized Satisfiability
+
+[LO7] Satisfiability of Boolean Expressions
+
+[LO8] Non-Tautology
+
+[LO9] Minimum Disjunctive Normal Form
+
+[LO10] Truth-Functionally Complete Connectives
+
+### A9.2 Miscellaneous
+
+[LO11] Quantified Boolean Formulas (QBF)
+
+[LO12] First Order Theory of Equality
+
+[LO13] Modal Logic S5-Satisfiability
+
+[LO14] Modal Logic Provability
+
+[LO15] Predicate Logic Without Negation
+
+[LO16] Conjunctive Satisfiability With Functions and Inequalities
+
+[LO17] Minimum Axiom Set
+
+[LO18] First Order Subsumption
+
+[LO19] Second Order Instantiation
+
+## A10 Automata and Language Theory
+
+### A10.1 Automata Theory
+
+[AL1] Finite State Automaton Inequivalence
+
+[AL2] Two-Way Finite State Automaton Non-Emptiness
+
+[AL3] Linear Bounded Automaton Acceptance
+
+[AL4] Quasi-Realtime Automaton Acceptance
+
+[AL5] Non-Erasing Stack Automaton Acceptance
+
+[AL6] Finite State Automata Intersection
+
+[AL7] Reduction of Incompletely Specified Automata
+
+[AL8] Minimum Inferred Finite State Automaton
+
+### A10.2 Formal Languages
+
+
+
+
+
