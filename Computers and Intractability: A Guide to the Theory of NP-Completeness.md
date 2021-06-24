@@ -606,6 +606,91 @@
 
 ### A10.2 Formal Languages
 
+[AL9] Regular Expression Inequivalence
+
+[AL10] Minimum Inferred Regular Expression
+
+[AL11] Reynolds Covering For Context-Free Grammars
+
+[AL12] Covering For Linear Grammars
+
+[AL13] Structural Inequivalence For Linear Grammars
+
+[AL14] Regular Grammar Inequivalence
+
+[AL15] Non-LR(K) Context-Free Grammar
+
+[AL16] Etol Grammar Non-Emptiness
+
+[AL17] Context-Free Programmed Language Membership
+
+[AL18] Quasi-Real-Time Language Membership
+
+[AL19] Etol Language Membership
+
+[AL20] Context-Sensitive Language Membership
+
+[AL21] Tree Transducer Language Membership
+
+## A11 Program Optimization
+
+### A11.1 Code Generation
+
+[PO1] Register Sufficiency
+
+[PO2] Feasible Register Assignment
+
+[PO3] Register Sufficiency For Loops
+
+[PO4] Code Generation On A One-Register Machine
+
+[PO5] Code Generation With Unlimited Registers
+
+[PO6] Code Generation For Parallel Assignments
+
+[PO7] Code Generation With Address Expressions
+
+[PO8] Code Generation With Unfixed Variable Locations
+
+[PO9] Ensemble Computation
+
+[PO10] Microcode Bit Optimization
+
+### A11.2 Programs and Schemes
+
+[PO11] Inequivalence Or Programs With Arrays
+
+[PO12] Inequivalence of Programs With Assignments
+
+[PO13] Inequivalence of Finite Memory Programs
+
+[PO14] Inequivalence of Loop Programs Without Nesting
+
+[PO15] Inequivalence of Simple Functions
+
+[PO16] Strong Inequivalence of Ianov Schemes
+
+[PO17] Strong Inequivalence For Monadic Recursion Schemes
+
+[PO18] Non-Containment For Free B-Schemes
+
+[PO19] Non-Freedom For Loop-Free Program Schemes
+
+[PO20] Programs With Formally Recursive Procedures
+
+## A12 Miscellaneous
+
+[MS1] Betweenness
+
+[MS2] Cyclic Ordering
+
+[MS3] Non-Liveness of Free Choice Petri Nets
+
+[MS4] Reachability For 1-Conservative Petri Nets
+
+[MS5]
+
+[]
 
 
 
