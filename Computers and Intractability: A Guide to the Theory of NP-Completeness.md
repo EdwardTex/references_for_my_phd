@@ -1,4 +1,4 @@
-
+# Appendix: A List of NP-Complete Problems
 
 - [Appendix: A List of NP-Complete Problems](#appendix--a-list-of-np-complete-problems)
   * [A1 Graph Theory](#a1-graph-theory)
@@ -43,8 +43,6 @@
   * [A13 Open Problems](#a13-open-problems)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-# Appendix: A List of NP-Complete Problems
 
 ## A1 Graph Theory
 
