@@ -688,9 +688,63 @@
 
 [MS4] Reachability For 1-Conservative Petri Nets
 
-[MS5]
+[MS5] Finite Function Generation
 
-[]
+[MS6] Permutation Generation
+
+[MS7] Decoding of Linear Codes
+
+[MS8] Shapley-Shubik Voting Power
+
+[MS9] Clustering
+
+[MS10] Randomization Test For Matched Pairs
+
+[MS11] Maximum Likelihood Ranking
+
+[MS12] Matrix Domination
+
+[MS13] Matrix Cover
+
+[MS14] Simply Deviated Disjunction
+
+[MS15] Dicision Tree
+
+[MS16] Minimum Weighted AND/OR Graph Solution
+
+[MS17] Fault Detection In Logic Circuits
+
+[MS18] Fault Detection In Directed Graphs
+
+[MS19] Fault Dectection With Test Points
+
+## A13 Open Problems
+
+[OPEN1] Graph Isomorphism
+
+[OPEN2] Subgraph Homeomorphism (For A Fixed Graph H)
+
+[OPEN3] Graph Genus
+
+[OPEN4] Chordal Graph Completion
+
+[OPEN5] Chromatic Index
+
+[OPEN6] Spanning Tree Parity Problem
+
+[OPEN7] Partial Order Dimension
+
+[OPEN8] Precedence Constrained 3-Processor Scheduling
+
+[OPEN9] Linear Programming
+
+[OPEN10] Total Unimodularity
+
+[OPEN11] Composite Number
+
+[OPEN12] Minimum Length Triangulation
+
+
 
 
 
