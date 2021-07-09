@@ -1,3 +1,3 @@
 # Pre-train
 
-[Pre-Trained Models: Past, Present and Future](https://arxiv.org/abs/2106.07139)
+[Pre-Trained Models: Past, Present and Future](https://arxiv.org/pdf/2106.07139)
