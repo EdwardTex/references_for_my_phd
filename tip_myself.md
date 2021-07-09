@@ -1,3 +1,7 @@
+# Tips for myself
+
+> ideas I got during @KB Group and @Graph Group.
+
 ### Presentation
 
 - Crystal clear about **Problem Definition**.
