@@ -1,3 +1,5 @@
 # Cohesive Subgraph
 
-[Parallel Batch-Dynamic k-Core Decomposition](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F2106.03824.pdf)
+[Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs](https://dl.acm.org/doi/pdf/10.1145/3299869.3300082)
+
+[Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/abs/2106.03824)
