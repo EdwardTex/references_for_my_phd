@@ -15,3 +15,7 @@
 ## Tips/Suggestions
 
 [my_own](https://github.com/EdwardTex/references_for_phd/blob/main/tip_myself.md)
+
+## KB/NLP
+
+[Pre-train]()
