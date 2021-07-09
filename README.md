@@ -18,4 +18,4 @@
 
 ## KB/NLP
 
-[Pre-train]()
+[Pre-train](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_pretrain.md)
