@@ -22,4 +22,4 @@
 
 ## GNN
 
-[Theoretical Foundations of Graph Neural Networks](https://petar-v.com/talks/GNN-Wednesday.pdf)
+[Basics](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_gnn.md)
