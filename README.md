@@ -24,13 +24,19 @@
 
 [Basics](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_gnn.md)
 
+## Math
+
+[线代启示录](https://ccjou.wordpress.com/)
+
 ## Suggestions
 
 [my_own](https://github.com/EdwardTex/references_for_phd/blob/main/tip_myself.md)
 
 [刘洋：如何撰写高质量科技论文](https://mp.weixin.qq.com/s?__biz=MzI0NDg0OTI1MQ==&mid=2247486447&idx=3&sn=1afbe202e5d755b35ea694bc79c22dd0&chksm=e956c4e3de214df51f096e9044c9f913ce611724d0a27a4745d8c79c63a312d2e0503342da30&token=1189472120&lang=zh_CN#rd)
 
-Eric Gilbert(UMICH), [ENG](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) [CN](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650798875&idx=1&sn=efa1ca8fa1205898dd03a6afd9165173&chksm=871a3f65b06db673482549475a5fee50bb2ee9ccf8b136675f8e5d39aa29f2de4d548bf63e29&mpshare=1&scene=24&srcid=1002xgptAs2n2gveLz3CQkHV&sharer_sharetime=1601614762417&sharer_shareid=d83a9486063ac231dfde82323ca7dc67&exportkey=AYtAYszcY4KywDO0rrr2kMw%3D&pass_ticket=FGICLXX1hGltNGrN%2BVm3hD0YNETP2ujITYEefo%2Fe9ZXokPM1h3yZ1B8aspqiG2Y6&wx_header=0#rd)
+[胡津铭整理合集](https://zhuanlan.zhihu.com/p/347223193)
+
+[Writing Tips By Lin Yin]()
 
 
 ## Stories
