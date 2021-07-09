@@ -36,7 +36,7 @@
 
 [胡津铭整理合集](https://zhuanlan.zhihu.com/p/347223193)
 
-[Writing Tips By Lin Yin]()
+[Writing Tips By Lin Yin](https://github.com/EdwardTex/references_for_my_phd/blob/main/tip_linyin.pptx)
 
 
 ## Stories
