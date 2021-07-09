@@ -4,4 +4,4 @@
 
 [Efficient Bitruss Decomposition for Large-scale Bipartite Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101358)
 
-[Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/abs/2106.03824)
+[Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
