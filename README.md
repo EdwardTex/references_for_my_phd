@@ -38,6 +38,8 @@
 
 [Writing Tips By Lin Yin](https://github.com/EdwardTex/references_for_my_phd/blob/main/tip_linyin.pptx)
 
+[Grind](https://github.com/EdwardTex/references_for_my_phd/blob/main/gg.pdf)
+
 
 ## Stories
 
