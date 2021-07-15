@@ -40,6 +40,8 @@
 
 [Grind](https://github.com/EdwardTex/references_for_my_phd/blob/main/gg.pdf)
 
+[H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)
+
 
 ## Stories
 
