@@ -13,3 +13,4 @@
 ### Methodology
 
 - A working implementation is needed first, then optimize it, don't consider many solutions first and even worse got stuck.
+- Three Prospectives: Problem, Algorithm, Data; if a work wanted, try formulate and improve it in these three.
