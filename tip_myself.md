@@ -1,6 +1,6 @@
 # Tips for myself
 
-> ideas I got during @KB Group and @Graph Group.
+> tips I got during @KB Group and @Graph Group.
 
 ### Presentation
 
