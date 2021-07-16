@@ -27,3 +27,5 @@
   - Develops new methodology
   - Develops a new tool
   - Produces a negative result
+
+- Follow references from one paper to another until you know an area extremely well. Don’t count on your advisor to hand you all of the relevant papers out of his file drawer. He doesn’t have them all! (from Dave Gifford, MIT)
