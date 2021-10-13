@@ -44,6 +44,8 @@
 
 [Fully Dynamic Approximate k-Core Decomposition in Hypergraphs](https://dl.acm.org/doi/pdf/10.1145/3385416)
 
+[Incremental k-core decomposition: algorithms and evaluation](https://link.springer.com/content/pdf/10.1007/s00778-016-0423-8.pdf)
+
 ### Clique
 
 [Parallel Clique Counting and Peeling Algorithms](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976830.13)
