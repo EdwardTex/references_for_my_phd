@@ -3,6 +3,7 @@
 ### Dataset
 
 [KONECT](http://konect.cc/networks/)
+
 [KONECT - handbook](https://github.com/kunegis/konect-handbook)
 
 ### Bitruss
