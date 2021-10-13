@@ -22,6 +22,8 @@
 
 [Rectangle Counting in Large Bipartite Graphs](https://ieeexplore.ieee.org/iel7/6902663/6906742/06906756.pdf)
 
+[Peeling Bipartite Networks for Dense Subgraph Discovery](https://dl.acm.org/doi/pdf/10.1145/3159652.3159678)
+
 ### Truss
 
 [Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.1145/3299869.3300082)
