@@ -14,6 +14,8 @@
 
 ## Theoretical
 
+[TR - Ryan Donnell](https://www.cs.cmu.edu/~odonnell/)
+
 [TR - Easy Theory](https://www.youtube.com/c/EasyTheory/playlists)
 
 [TR - C&I: A Guide](https://github.com/EdwardTex/References-for-Graph-Problem/blob/main/Computers%20and%20Intractability:%20A%20Guide%20to%20the%20Theory%20of%20NP-Completeness.md)
