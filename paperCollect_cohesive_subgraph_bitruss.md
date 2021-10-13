@@ -29,6 +29,10 @@
 
 [Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
 
+[Distributed Approximate k-Core Decomposition and Min-Max Edge Orientation: Breaking the Diameter Barrier](https://www.sciencedirect.com/science/article/pii/S0743731520303506/pdfft?md5=5c8b721bcfcef2c85f0cd8170704b698&pid=1-s2.0-S0743731520303506-main.pdf)
+
+[Fully Dynamic Approximate k-Core Decomposition in Hypergraphs](https://dl.acm.org/doi/pdf/10.1145/3385416)
+
 ### Clique
 
 [Parallel Clique Counting and Peeling Algorithms](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976830.13)
