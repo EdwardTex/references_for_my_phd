@@ -8,7 +8,7 @@
 
 [Cohesive Subgraph](https://github.com/EdwardTex/references_for_phd/blob/main/paperCollect_cohesive_subgraph.md)
 
-[Cohesive Subgraph_bitruss]((https://github.com/EdwardTex/references_for_phd/blob/main/paperCollect_cohesive_subgraph_bitruss.md))
+[Cohesive Subgraph - Bitruss](https://github.com/EdwardTex/references_for_phd/blob/main/paperCollect_cohesive_subgraph_bitruss.md)
 
 [NOIP](https://github.com/huzecong/oi-slides/blob/master/2015-noip-graph-theory/%E5%9B%BE%E8%AE%BA_final.pdf)
 
