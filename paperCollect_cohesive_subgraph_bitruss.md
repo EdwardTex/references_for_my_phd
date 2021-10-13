@@ -27,6 +27,8 @@
 
 [Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
 
+[Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
+
 ### Clique
 
 [Parallel Clique Counting and Peeling Algorithms](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976830.13)
