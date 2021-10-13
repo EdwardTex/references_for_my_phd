@@ -1,5 +1,10 @@
 # Bitruss Maintenance
 
+### Dataset
+
+[KONECT](http://konect.cc/networks/)
+[KONECT - handbook](https://github.com/kunegis/konect-handbook)
+
 ### Bitruss
 
 [Bitruss Decomposition of Bipartite Graphs](https://link.springer.com/chapter/10.1007/978-3-319-32049-6_14)
