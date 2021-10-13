@@ -14,9 +14,13 @@
 
 [Parallel algorithms for butterfly computations](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976021.2)
 
+[Rectangle Counting in Large Bipartite Graphs](https://ieeexplore.ieee.org/iel7/6902663/6906742/06906756.pdf)
+
 ### Truss
 
 [Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.1145/3299869.3300082)
+
+[Efficient Estimation of Graph Trussness](https://arxiv.org/pdf/2010.00967)
 
 
 ### Core
