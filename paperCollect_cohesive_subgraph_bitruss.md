@@ -28,6 +28,9 @@
 
 [Efficient Estimation of Graph Trussness](https://arxiv.org/pdf/2010.00967)
 
+### (alpha,beta)-core
+
+[Efficient Fault-Tolerant Group Recommendation Using (alpha,beta)-core](https://www.researchgate.net/profile/Zhipeng-Huang-9/publication/320440703_Efficient_Fault-Tolerant_Group_Recommendation_Using_alpha-beta-core/links/59e55f6aaca272390ed64cb2/Efficient-Fault-Tolerant-Group-Recommendation-Using-alpha-beta-core.pdf)
 
 ### Core
 
