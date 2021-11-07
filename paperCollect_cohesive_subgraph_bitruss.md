@@ -1,4 +1,10 @@
-# Bitruss Maintenance
+# Cohesive Subgraph
+
+### Thesis
+
+[C. Li - Cohesive Subgraph Search in Big Graphs](https://opus.lib.uts.edu.au/bitstream/10453/148836/1/01Front.pdf)
+
+[B. Liu - Efficient Core Computation in Bipartite and Multilayer Graphs](https://unsworks.unsw.edu.au/fapi/datastream/unsworks:71240/SOURCE02?view=true)
 
 ### Dataset
 
