@@ -14,9 +14,13 @@
 
 [TR - Graph Reachability](http://www.cse.ust.hk/~dimitris/6311/L24-RI-Parchas.pdf)
 
-[TR - Managing and Mining Graph Data](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6045-0.pdf)
+[BK - Managing and Mining Graph Data](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6045-0.pdf)
 
-## Theoretical
+## DB
+
+[PR - A Survey of Skyline Query Processing](https://arxiv.org/pdf/1704.01788)
+
+## TCS
 
 [TR - Ryan Donnell](https://www.cs.cmu.edu/~odonnell/)
 
