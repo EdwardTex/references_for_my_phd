@@ -8,6 +8,8 @@
 
 [Cohesive subgraph computation over large sparse graphs: algorithms, data structures, and programming techniques](https://b-ok.global/dl/3660662/2fb918)
 
+[A survey of community search over big graphs](https://link.springer.com/content/pdf/10.1007/s00778-019-00556-x.pdf)
+
 ### Thesis
 
 [C. Li - Cohesive Subgraph Search in Big Graphs](https://opus.lib.uts.edu.au/bitstream/10453/148836/1/01Front.pdf)
