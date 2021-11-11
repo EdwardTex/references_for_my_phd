@@ -10,6 +10,8 @@
 
 [A survey of community search over big graphs](https://link.springer.com/content/pdf/10.1007/s00778-019-00556-x.pdf)
 
+[A Survey of Algorithms for Dense Subgraph Discovery](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6045-0_10.pdf)
+
 ### Thesis
 
 [C. Li - Cohesive Subgraph Search in Big Graphs](https://opus.lib.uts.edu.au/bitstream/10453/148836/1/01Front.pdf)
