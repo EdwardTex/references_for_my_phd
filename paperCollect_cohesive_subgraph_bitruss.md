@@ -12,6 +12,8 @@
 
 [A Survey of Algorithms for Dense Subgraph Discovery](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6045-0_10.pdf)
 
+[Clustering and community detection in directed networks: A survey](https://www.sciencedirect.com/science/article/pii/S0370157313002822/pdfft?md5=44f95cee9b0dd2421223be72b0b7b423&pid=1-s2.0-S0370157313002822-main.pdf)
+
 ### Thesis
 
 [C. Li - Cohesive Subgraph Search in Big Graphs](https://opus.lib.uts.edu.au/bitstream/10453/148836/1/01Front.pdf)
