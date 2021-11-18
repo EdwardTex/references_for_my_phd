@@ -56,6 +56,10 @@
 
 [Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve)
 
+### (k, l)-core / D-core
+
+[Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf)
+
 ### Core
 
 [Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
