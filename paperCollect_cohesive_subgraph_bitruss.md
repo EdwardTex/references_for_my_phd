@@ -56,15 +56,17 @@
 
 [Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve)
 
-### (k, l)-core / D-core
+### Hierarchy
+
+[Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
 
 [Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf)
+
+[Fast Hierarchy Construction for Dense Subgraphs](http://www.vldb.org/pvldb/vol10/p97-sariyuce.pdf)
 
 ### Core
 
 [Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
-
-[Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
 
 [Distributed Approximate k-Core Decomposition and Min-Max Edge Orientation: Breaking the Diameter Barrier](https://www.sciencedirect.com/science/article/pii/S0743731520303506/pdfft?md5=5c8b721bcfcef2c85f0cd8170704b698&pid=1-s2.0-S0743731520303506-main.pdf)
 
