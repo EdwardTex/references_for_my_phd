@@ -56,6 +56,12 @@
 
 [Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve)
 
+### D-core
+
+[Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf)
+
+[Effective and Efficient Community Search Over Large Directed Graphs](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
+
 ### Hierarchy
 
 [Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
