@@ -2,6 +2,11 @@
 
 > tips I got during @KB Group and @Graph Group.
 
+
+### General Reading
+
+- 看了现有做法的话想法会受限，没看的话可能浪费太多时间做的还不如现有；
+
 ### Presentation
 
 - Crystal clear about **Problem Definition**.
