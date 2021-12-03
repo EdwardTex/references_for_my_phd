@@ -32,6 +32,8 @@
 
 [BK - Small Summaries for Big Data](http://dimacs.rutgers.edu/~graham/ssbd.html)
 
+[PR - Survey of Local Algorithms](https://jukkasuomela.fi/doc/local-survey.pdf)
+
 ## Writing
 
 [TR - Latex_algorithm2e](https://mlg.ulb.ac.be/files/algorithm2e.pdf)
