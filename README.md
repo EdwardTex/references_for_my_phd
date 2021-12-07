@@ -50,10 +50,6 @@
 
 [Paper - Basics](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_gnn.md)
 
-## Math
-
-[BG - 线代启示录](https://ccjou.wordpress.com/)
-
 ## Suggestions
 
 [my_own](https://github.com/EdwardTex/references_for_phd/blob/main/tip_myself.md)
@@ -71,6 +67,8 @@
 [Grind](https://github.com/EdwardTex/references_for_my_phd/blob/main/gg.pdf)
 
 [H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)
+
+[Jim Whitehead](https://users.soe.ucsc.edu/~ejw/advice/)
 
 
 ## Stories
