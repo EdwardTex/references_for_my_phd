@@ -1,10 +1,10 @@
-# references_for_my_phd
+# References for My Phd
 
 ## Graph
 
-[Paper - Incremental](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_incremental.md)
+[PP - Incremental](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_incremental.md)
 
-[Paper - Cohesive Subgraph](https://github.com/EdwardTex/references_for_phd/blob/main/paperCollect_cohesive_subgraph_bitruss.md)
+[PP - Cohesive Subgraph](https://github.com/EdwardTex/references_for_phd/blob/main/paperCollect_cohesive_subgraph_bitruss.md)
 
 [TR - NOIP](https://github.com/huzecong/oi-slides/blob/master/2015-noip-graph-theory/%E5%9B%BE%E8%AE%BA_final.pdf)
 
