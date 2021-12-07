@@ -39,7 +39,7 @@
 
 [Advice](https://github.com/EdwardTex/references_for_phd/blob/main/adst/adv/adst_adv.md)
 
-[Stories](https://github.com/EdwardTex/references_for_phd/blob/main/adst/adv/adst_str.md)
+[Stories](https://github.com/EdwardTex/references_for_phd/blob/main/adst/str/adst_str.md)
 
 
 

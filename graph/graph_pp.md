@@ -1,7 +1,7 @@
 # Graph - Paper Collection
 
-[Incremental](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_incremental.md)
+[Incremental](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp/graph_pp_incre.md)
 
-[Cohesive Subgraph](https://github.com/EdwardTex/references_for_phd/blob/main/paperCollect_cohesive_subgraph.md)
+[Cohesive Subgraph](https://github.com/EdwardTex/references_for_phd/blob/main/graph/graph_pp/graph_pp_cohesive.md)
 
-[GNN](https://github.com/EdwardTex/references_for_my_phd/blob/main/paperCollect_gnn.md)
+[GNN](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp/graph_pp_gnn.md)
