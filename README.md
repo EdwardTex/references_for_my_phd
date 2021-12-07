@@ -24,7 +24,7 @@
 
 ## Basic CS
 
-[Books / TechReps / Blogs / Courses](https://github.com/EdwardTex/references_for_my_phd/blob/main/tcs/tcs_bktr.md)
+[Books / TechReps / Blogs / Courses](https://github.com/EdwardTex/references_for_my_phd/blob/main/bcs/bcs_bktr.md)
 
 ## KB/NLP
 
