@@ -22,4 +22,4 @@
 
 [BK - LZ: Introduction to GNN](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_IntroGNN.pdf)
 
-[BK - FAK: Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_GT.pdf)
+[BK - KF: Probabilistic Graphical Models - Principles and Techniques](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_probGM.pdf)
