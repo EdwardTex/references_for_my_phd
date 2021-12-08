@@ -13,3 +13,13 @@
 ## Books
 
 [BK - Managing and Mining Graph Data](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6045-0.pdf)
+
+[BK - RWE: Graph Databases](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_GDB.pdf)
+
+[BK - NH: Graph Algorithms - Practical Examples in Apache Spark & Neo4j](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_graAlgSpkNeo.pdf)
+
+[BK - K.R: Graph Theory](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_GT.pdf)
+
+[BK - LZ: Introduction to GNN](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_IntroGNN.pdf)
+
+[BK - FAK: Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_GT.pdf)
