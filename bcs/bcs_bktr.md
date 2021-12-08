@@ -20,3 +20,5 @@
 ## Courses List
 
 [CR - The Missing Semester of Your CS Education]() [[Chinese Ver.]](https://missing-semester-cn.github.io/) [[Video Link]](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+
+[CR - Sys - [CMU][15-445/645][2020f] Database Systems](https://15445.courses.cs.cmu.edu/fall2020/syllabus.html)
