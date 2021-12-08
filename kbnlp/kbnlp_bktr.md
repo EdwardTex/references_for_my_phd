@@ -2,7 +2,7 @@
 
 ## TechReps (Tutorials)
 
-[TR - TBC]()
+[TR - Papers and Materials Collection of KB](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers)
 
 ## Books
 
