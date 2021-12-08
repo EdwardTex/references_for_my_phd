@@ -30,6 +30,8 @@
 
 [Paper Collection](https://github.com/EdwardTex/references_for_my_phd/blob/main/kbnlp/kbnlp_pp.md)
 
+[Books / TechReps / Blogs](https://github.com/EdwardTex/references_for_my_phd/blob/main/kbnlp/kbnlp_bktr.md)
+
 ## Optimization
 
 [Books / TechReps / Blogs](https://github.com/EdwardTex/references_for_my_phd/blob/main/opt/opt_bktr.md)

@@ -8,6 +8,13 @@
 
 ## Books
 
+[BK - CLRS: Introduction to Algorithms](https://github.com/EdwardTex/References-for-Graph-Problem/blob/main/bcs/bcs_bktr/bcs_bk_IntroAlgo.pdf)
+
+[BK - (Solution) CLRS: Introduction to Algorithms](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+
+[BK - KT: Algorithm Design](https://github.com/EdwardTex/References-for-Graph-Problem/blob/main/bcs/bcs_bktr/bcs_bk_algoDesign.pdf)
+
+[BK - (Solution) KT: Algorithm Design](https://github.com/EdwardTex/References-for-Graph-Problem/blob/main/bcs/bcs_bktr/bcs_bk_algoDesignSol.pdf)
 
 
 ## Courses List
