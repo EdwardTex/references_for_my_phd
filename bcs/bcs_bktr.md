@@ -14,6 +14,8 @@
 
 [BK - (Solution) KT: Algorithm Design](https://github.com/EdwardTex/References-for-Graph-Problem/blob/main/bcs/bcs_bktr/bcs_bk_algoDesignSol.pdf)
 
+[BK - P.M: Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+
 
 ## Courses List
 
