@@ -28,3 +28,5 @@
 [BG - Programming Variable Naming](http://hzwer.com/9160.html)
 
 [BG - site of jjhou](http://boolan.com/jjhou/)
+
+[BG - PKU Flying Pig](https://github.com/PKUFlyingPig/pku-cs-self-learning)
