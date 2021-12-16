@@ -1,5 +1,9 @@
 # BCS - Books / TechReps / Blogs / Courses
 
+## Tools
+
+[TL - Visualize Code Execution](https://pythontutor.com/)
+
 ## TechReps (Tutorials)
 
 [TR - Sorting]() [[ver1]](https://mp.weixin.qq.com/s/IAZnN00i65Ad3BicZy5kzQ) [[ver2]](https://www.cxyxiaowu.com/725.html)
