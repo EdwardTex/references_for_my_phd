@@ -37,12 +37,7 @@
 ### Writing
 
 - An extension from the conference ver. to the journal ver.: 
-  - Guarantee the contribution of <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
-  <mfrac>
-    <mn>1</mn>
-    <mn>3</mn>
-  </mfrac>
-</math> more than the conference one;
+  - Guarantee the contribution of <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>3</mn></mfrac></math> more than the conference one;
   - Parts need to rewrote include Intro, Related Works, Experiments and the New Contribution;
 
 
