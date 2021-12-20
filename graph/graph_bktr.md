@@ -10,6 +10,8 @@
 
 [TR - Graph Reachability](http://www.cse.ust.hk/~dimitris/6311/L24-RI-Parchas.pdf)
 
+[TR - Graph Contraction](http://www.cs.cmu.edu/afs/cs/academic/class/15210-s14/www/lectures/graph-contract.pdf)
+
 ## Books
 
 [BK - Managing and Mining Graph Data](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6045-0.pdf)
