@@ -37,7 +37,7 @@
 ### Writing
 
 - An extension from the conference ver. to the journal ver.: 
-  - Guarantee the contribution of $\frac{1}{3}$ more than the conference one;
+  - Guarantee the contribution of $`\frac{1}{3}`$ more than the conference one;
   - Parts need to rewrote include Intro, Related Works, Experiments and the New Contribution;
 
 
