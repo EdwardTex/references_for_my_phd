@@ -14,7 +14,6 @@
 - The **shortcomings(fundmental issues)** of existing methods, how bad the problem would be under what kind of situation.
 - Initial result is needed in PPT, at least some **coding**, don't make this just hand-waiving.
 
-
 ### Methodology
 
 - A working implementation is needed first, then optimize it, don't consider many solutions first and even worse got stuck.
@@ -34,3 +33,12 @@
   - Produces a negative result
 
 - Follow references from one paper to another until you know an area extremely well. Don’t count on your advisor to hand you all of the relevant papers out of his file drawer. He doesn’t have them all! (from Dave Gifford, MIT)
+
+### Writing
+
+- An extension from the conference ver. to the journal ver.: 
+  - Guarantee the contribution of $\frac{1}{3}$ more than the conference one;
+  - Parts need to rewrote include Intro, Related Works, Experiments and the New Contribution;
+
+
+
