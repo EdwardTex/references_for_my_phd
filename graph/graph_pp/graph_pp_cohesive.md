@@ -26,6 +26,10 @@
 
 [KONECT - handbook](https://github.com/kunegis/konect-handbook)
 
+### Community Search
+
+[Effective and Efficient Community Search over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
+
 ### Bitruss
 
 [Bitruss Decomposition of Bipartite Graphs](https://link.springer.com/chapter/10.1007/978-3-319-32049-6_14)
@@ -50,11 +54,19 @@
 
 [Efficient Estimation of Graph Trussness](https://arxiv.org/pdf/2010.00967)
 
+[Efficient Probabilistic Truss Indexing on Uncertain Graphs](https://dl.acm.org/doi/pdf/10.1145/3442381.3449976)
+
 ### (alpha,beta)-core
 
 [Efficient Fault-Tolerant Group Recommendation Using (alpha,beta)-core](https://www.researchgate.net/profile/Zhipeng-Huang-9/publication/320440703_Efficient_Fault-Tolerant_Group_Recommendation_Using_alpha-beta-core/links/59e55f6aaca272390ed64cb2/Efficient-Fault-Tolerant-Group-Recommendation-Using-alpha-beta-core.pdf)
 
 [Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve)
+
+[Efficient and Effective Community Search on Large-scale Bipartite Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458793)
+
+[Discovering Significant Communities on Bipartite Graphs: An Index-based Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534476)
+
+[Pareto-optimal Community Search on Large Bipartite Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482282)
 
 ### D-core
 
@@ -79,6 +91,12 @@
 [Fully Dynamic Approximate k-Core Decomposition in Hypergraphs](https://dl.acm.org/doi/pdf/10.1145/3385416)
 
 [Incremental k-core decomposition: algorithms and evaluation](https://link.springer.com/content/pdf/10.1007/s00778-016-0423-8.pdf)
+
+### (k,h)-core
+
+[Distance-generalized Core Decomposition](https://dl.acm.org/doi/pdf/10.1145/3299869.3324962)
+
+[Local Algorithms for Distance-generalized Core Decomposition over Large Dynamic Graphs](http://vldb.org/pvldb/vol14/p1531-xu.pdf)
 
 ### Clique
 
