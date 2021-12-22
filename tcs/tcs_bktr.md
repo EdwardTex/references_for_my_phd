@@ -8,7 +8,7 @@
 
 ## Notes
 
-[NT - 15-859T,CMU / A Theorist's Toolkit](http://www.cs.cmu.edu/~odonnell/toolkit13/)
+[NT - 15-859T,CMU / A Theorist's Toolkit](http://www.cs.cmu.edu/~odonnell/toolkit13/) [new: sp2019](https://www.diderot.one/courses/28)
 
 [NT - 6.045J,MIT /  Automata, Computability, and Complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm)
 
