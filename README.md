@@ -43,5 +43,5 @@
 
 [Stories](https://github.com/EdwardTex/references_for_phd/blob/main/adst/str/adst_str.md)
 
-
+[(2019) CCF Ranking]()
 
