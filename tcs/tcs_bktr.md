@@ -8,13 +8,13 @@
 
 ## Notes
 
-[NT - A Theorist's Toolkit](http://www.cs.cmu.edu/~odonnell/toolkit13/)
+[NT - 15-859T,CMU / A Theorist's Toolkit](http://www.cs.cmu.edu/~odonnell/toolkit13/)
 
-[NT - Automata, Computability, and Complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm)
+[NT - 6.045J,MIT /  Automata, Computability, and Complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm)
 
-[NT - Advanced Complexity Theory](https://ocw.mit.edu/courses/mathematics/18-405j-advanced-complexity-theory-spring-2016/)
+[NT - 18.405J,MIT / Advanced Complexity Theory](https://ocw.mit.edu/courses/mathematics/18-405j-advanced-complexity-theory-spring-2016/)
 
-[NT - 18.433,MIT /  Combinatorial Optimization](https://klein.mit.edu/~goemans/18433S15/18433.html)
+[NT - 18.433,MIT / Combinatorial Optimization](https://klein.mit.edu/~goemans/18433S15/18433.html)
 
 [NT - CS598,UIUC / Topics in Combinatorial Optimization](https://courses.engr.illinois.edu/cs598csc/sp2010/)
 
