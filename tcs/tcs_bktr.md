@@ -18,6 +18,8 @@
 
 [NT - CS598,UIUC / Topics in Combinatorial Optimization](https://courses.engr.illinois.edu/cs598csc/sp2010/)
 
+[NT - CS598,UIUC / Algorithms for Big Data](https://courses.engr.illinois.edu/cs598csc/fa2014/)
+
 ## Books
 
 [BK - (Index) GJ: Computers and Intractability - A Guide to the Theory of NP-Completeness](https://github.com/EdwardTex/References-for-Graph-Problem/blob/main/tcs/tcs_bktr/tcs_bk_comp&intra.md)
