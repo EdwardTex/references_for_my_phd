@@ -102,6 +102,8 @@
 
 [Parallel Clique Counting and Peeling Algorithms](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976830.13)
 
+[Diversified top-k clique search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7113300)
+
 ### Bi-triangle
 
 [Efficient Bi-triangle Counting for Large Bipartite Networks](http://vldb.org/pvldb/vol14/p984-yang.pdf)
