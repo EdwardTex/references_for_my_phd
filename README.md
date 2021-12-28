@@ -2,7 +2,7 @@
 
 ## Graph
 
-[test](https://sci-hub.yncjkj.com/10.1145/3448016.3452797)
+[test](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Findex.ggws.net%2Fdownloads%2F2021-08-12%2Ffc%2Ffan2021.pdf%3Fdownload%3Dtrue)
 
 [Paper Collection](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp.md)
 
