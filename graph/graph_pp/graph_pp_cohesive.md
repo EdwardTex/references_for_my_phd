@@ -20,11 +20,6 @@
 
 [B. Liu - Efficient Core Computation in Bipartite and Multilayer Graphs](https://unsworks.unsw.edu.au/fapi/datastream/unsworks:71240/SOURCE02?view=true)
 
-### Dataset
-
-[KONECT](http://konect.cc/networks/)
-
-[KONECT - handbook](https://github.com/kunegis/konect-handbook)
 
 ### Community Search
 
