@@ -1,13 +1,5 @@
 # Graph - Books / TechReps / Blogs
 
-## Dataset
-
-[KONECT](http://konect.cc/networks/)
-
-[KONECT - handbook](https://github.com/kunegis/konect-handbook)
-
-[SNAP Datasets](http://snap.stanford.edu/data/index.html)
-
 ## TechReps (Tutorials)
 
 [TR - NOIP](https://github.com/huzecong/oi-slides/blob/master/2015-noip-graph-theory/%E5%9B%BE%E8%AE%BA_final.pdf)
@@ -33,3 +25,27 @@
 [BK - LZ: Introduction to GNN](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_IntroGNN.pdf)
 
 [BK - KF: Probabilistic Graphical Models - Principles and Techniques](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr/graph_bk_probGM.pdf)
+
+
+## Dataset
+
+[KONECT](http://konect.cc/networks/)
+
+[KONECT - handbook](https://github.com/kunegis/konect-handbook)
+
+[SNAP Datasets](http://snap.stanford.edu/data/index.html)
+
+[OGB - Open Graph Benchmark](https://ogb.stanford.edu/)
+
+[OAG - Open Academic Graph](https://www.aminer.org/open-academic-graph)
+
+[LAW - Università degli studi di Milano](http://law.di.unimi.it/datasets.php)
+
+[NETWORK REPOSITORY - Intel Research/Adobe Research](http://networkrepository.com/index.php)
+
+[TORCH_GEOMETRIC.DATASETS](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html)
+
+[Graph Datasets - Paper With Code](https://paperswithcode.com/datasets?mod=graphs&page=1)
+
+[Graph Classification Datasets - Sergey Ivanov](https://github.com/nd7141/graph_datasets)
+
