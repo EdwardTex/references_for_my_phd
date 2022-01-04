@@ -1,5 +1,13 @@
 # Graph - Books / TechReps / Blogs
 
+## Dataset
+
+[KONECT](http://konect.cc/networks/)
+
+[KONECT - handbook](https://github.com/kunegis/konect-handbook)
+
+[SNAP Datasets](http://snap.stanford.edu/data/index.html)
+
 ## TechReps (Tutorials)
 
 [TR - NOIP](https://github.com/huzecong/oi-slides/blob/master/2015-noip-graph-theory/%E5%9B%BE%E8%AE%BA_final.pdf)
