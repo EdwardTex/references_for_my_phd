@@ -17,3 +17,5 @@
 [Jim Whitehead: Advice for Foreign Students Wishing to Pursue Graduate Study in Computer Science at UCSC](https://users.soe.ucsc.edu/~ejw/advice/)
 
 [Philip GUO: Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
+
+[Survive SJTU](https://github.com/SurviveSJTU/SurviveSJTUManual)
