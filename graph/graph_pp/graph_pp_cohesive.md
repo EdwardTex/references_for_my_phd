@@ -69,6 +69,8 @@
 
 [Effective and Efficient Community Search Over Large Directed Graphs](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
 
+[DBL: Efficient Reachability Queries on Dynamic Graphs](https://arxiv.org/pdf/2101.09441)
+
 ### Hierarchy
 
 [Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
