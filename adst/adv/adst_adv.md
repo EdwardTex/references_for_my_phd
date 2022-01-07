@@ -10,7 +10,7 @@
 
 [Jinming HU: Collection](https://zhuanlan.zhihu.com/p/347223193)
 
-[Philip: Grind](https://github.com/EdwardTex/references_for_my_phd/blob/main/adst/adv/adst_adv/tip_grind.pdf)
+[Philip GUO: Grind](https://github.com/EdwardTex/references_for_my_phd/blob/main/adst/adv/adst_adv/tip_grind.pdf)
 
 [H.T. Kung: Ph.D. Advice](https://www.eecs.harvard.edu/htk/phdadvice/)
 
