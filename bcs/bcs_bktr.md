@@ -4,6 +4,8 @@
 
 [TL - Visualize Code Execution](https://pythontutor.com/)
 
+[TL - Shortcut VsCode](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)
+
 ## TechReps (Tutorials)
 
 [TR - Sorting]() [[ver1]](https://mp.weixin.qq.com/s/IAZnN00i65Ad3BicZy5kzQ) [[ver2]](https://www.cxyxiaowu.com/725.html)
