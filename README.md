@@ -18,7 +18,7 @@
 
 ## Academic Writing
 
-[Grammar](https://github.com/EdwardTex/references_for_my_phd/blob/main/aw/aw_gs.md)
+[Grammar](https://github.com/EdwardTex/references_for_my_phd/blob/main/aw/aw_go.md)
 
 [Latex](https://github.com/EdwardTex/references_for_my_phd/blob/main/aw/aw_latex.md)
 
