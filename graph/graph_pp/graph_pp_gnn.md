@@ -6,6 +6,8 @@
 
 [Learning Convolutional Neural Networks for Graphs](http://proceedings.mlr.press/v48/niepert16.pdf)
 
+[Neural Execution of Graph Algorithms](https://arxiv.org/pdf/1910.10593)
+
 ### TR
 
 [TR - Deepmind: Theoretical Foundations of Graph Neural Networks](https://petar-v.com/talks/GNN-Wednesday.pdf)
