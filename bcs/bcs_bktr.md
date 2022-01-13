@@ -36,3 +36,5 @@
 [BG - site of jjhou](http://boolan.com/jjhou/)
 
 [BG - PKU Flying Pig](https://github.com/PKUFlyingPig/pku-cs-self-learning)
+
+[BG - 背包问题九讲[崔添翼]](https://github.com/tianyicui/pack/blob/master/V2.pdf)
