@@ -19,3 +19,5 @@
 [Philip GUO: Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 
 [Survive SJTU](https://github.com/SurviveSJTU/SurviveSJTUManual)
+
+[Syllabus for Eric's PhD students](https://github.com/EdwardTex/references_for_my_phd/blob/main/adst/adv/adst_adv/tip_eric.pdf)

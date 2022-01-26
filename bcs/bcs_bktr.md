@@ -31,10 +31,53 @@
 
 ## Blogs
 
-[BG - Programming Variable Naming](http://hzwer.com/9160.html)
-
-[BG - site of jjhou](http://boolan.com/jjhou/)
+## Survey
 
 [BG - PKU Flying Pig](https://github.com/PKUFlyingPig/pku-cs-self-learning)
 
-[BG - 背包问题九讲[崔添翼]](https://github.com/tianyicui/pack/blob/master/V2.pdf)
+[BG - site of jjhou](http://boolan.com/jjhou/)
+
+### Data Structure
+
+#### Heap
+
+[DS - Binary Heap](https://mp.weixin.qq.com/s/TKRtF2dAtH7VuNs-FC4awA)
+
+[DS - Heap Sorting](https://mp.weixin.qq.com/s/B0ImTjuQJiR7ahRzBpslcg)
+
+#### Tree
+
+[DS - Comic about AVL Tree](https://mp.weixin.qq.com/s/dYP5-fM22BgM3viWg4V44A)
+
+[DS - Comic about RB Tree](https://mp.weixin.qq.com/s/p_fEMMNjlnPbbwY9dDQMAQ)
+
+[DS - B Tree](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486101&idx=1&sn=980f6dfb7643a9ff4f5a661d4a496046&chksm=ce404141f937c85750232523583435e97f3965a3761fa327e5d79e2b720dfced1a1dfc731d3b&token=1321503479&lang=zh_CN#rd)
+
+### Topics
+
+[TP - Classical Sorting](https://mp.weixin.qq.com/s/IAZnN00i65Ad3BicZy5kzQ)
+
+[TP - 背包问题九讲[崔添翼]](https://github.com/tianyicui/pack/blob/master/V2.pdf)
+
+[TP - Some examples of Recursive](https://mp.weixin.qq.com/s/mJ_jZZoak7uhItNgnfmZvQ)
+
+#### Graphs
+
+[TP - Comic about Floyd-Warshall](https://mp.weixin.qq.com/s/qnPSzv_xWSZN0VpdUgwvMg)
+
+[TP - Comic about BFS & DFS](https://mp.weixin.qq.com/s/WA5hQXkcACIarcdVnRnuiw)
+
+#### String Matching
+
+[TP - Trie Tree for String](https://mp.weixin.qq.com/s/ZYtU4v9y2KMLT0d2X_MIZQ)
+
+[TP - Boyer Moore for String](https://mp.weixin.qq.com/s/ZYtU4v9y2KMLT0d2X_MIZQ)
+
+[TP - Knuth-Morris-Pratt for String](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247485226&idx=1&sn=11318aed06e7b24120256cb3d6c4456d&scene=21#wechat_redirect)
+
+
+
+### Misc
+
+[BG - Programming Variable Naming](http://hzwer.com/9160.html)
+
