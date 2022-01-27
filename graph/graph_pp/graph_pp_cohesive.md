@@ -25,6 +25,8 @@
 
 [Effective and Efficient Community Search over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
 
+[On Breaking Truss-Based Communities](https://dl.acm.org/doi/pdf/10.1145/3447548.3467365)
+
 ### Bitruss
 
 [Bitruss Decomposition of Bipartite Graphs](https://link.springer.com/chapter/10.1007/978-3-319-32049-6_14)
