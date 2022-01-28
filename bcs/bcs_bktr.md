@@ -2,9 +2,23 @@
 
 ## Tools
 
+### Compile
+
+[TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) [zhihu](https://zhuanlan.zhihu.com/p/129380947)
+
+### Hashing
+
+[TL - Sparsepp: A fast, memory efficient hash map for C++](https://github.com/greg7mdp/sparsepp)
+
+[TL - The Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap)
+
+### Misc
+
 [TL - Visualize Code Execution](https://pythontutor.com/)
 
 [TL - Shortcut VsCode](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)
+
+
 
 ## TechReps (Tutorials)
 
