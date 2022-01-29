@@ -4,13 +4,15 @@
 
 ### Compile
 
-[TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) [zhihu](https://zhuanlan.zhihu.com/p/129380947)
+[TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) | [zhihu](https://zhuanlan.zhihu.com/p/129380947)
 
 ### Hashing
 
 [TL - Sparsepp: A fast, memory efficient hash map for C++](https://github.com/greg7mdp/sparsepp)
 
 [TL - The Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap)
+
+[TK - An Elegant Pairing Function](http://szudzik.com/ElegantPairing.pdf) | [github repo](https://github.com/ccapo/elegant-pair)
 
 ### Misc
 
