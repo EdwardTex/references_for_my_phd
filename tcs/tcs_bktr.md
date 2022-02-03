@@ -20,6 +20,12 @@
 
 [NT - CS598,UIUC / Algorithms for Big Data](https://courses.engr.illinois.edu/cs598csc/fa2014/)
 
+## Courses
+
+[CR - CS261,Standord / Optimization and Algorithmic Paradigms](http://theory.stanford.edu/~trevisan/cs261/)
+
+[CR - 18.453,MIT / Combinatorial Optimization](https://klein.mit.edu/~goemans/18453S17/18453.html)
+
 ## Books
 
 [BK - (Index) GJ: Computers and Intractability - A Guide to the Theory of NP-Completeness](https://github.com/EdwardTex/References-for-Graph-Problem/blob/main/tcs/tcs_bktr/tcs_bk_comp&intra.md)
