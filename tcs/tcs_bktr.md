@@ -22,6 +22,8 @@
 
 ## Courses
 
+[CR - COMP5712,HKUST / Introduction to Combinatorial Optimization](http://home.cse.ust.hk/~arya/hkust_only/comp5712/lectures.html)
+
 [CR - CS261,Standord / Optimization and Algorithmic Paradigms](http://theory.stanford.edu/~trevisan/cs261/)
 
 [CR - 18.453,MIT / Combinatorial Optimization](https://klein.mit.edu/~goemans/18453S17/18453.html)
