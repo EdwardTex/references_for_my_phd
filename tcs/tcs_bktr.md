@@ -16,17 +16,17 @@
 
 [NT - 18.433,MIT / Combinatorial Optimization](https://klein.mit.edu/~goemans/18433S15/18433.html)
 
+[NT - 18.453,MIT / Combinatorial Optimization](https://klein.mit.edu/~goemans/18453S17/18453.html)
+
 [NT - CS598,UIUC / Topics in Combinatorial Optimization](https://courses.engr.illinois.edu/cs598csc/sp2010/)
 
 [NT - CS598,UIUC / Algorithms for Big Data](https://courses.engr.illinois.edu/cs598csc/fa2014/)
 
-## Courses
+[NT - COMP5712,HKUST / Introduction to Combinatorial Optimization](http://home.cse.ust.hk/~arya/hkust_only/comp5712/lectures.html)
 
-[CR - COMP5712,HKUST / Introduction to Combinatorial Optimization](http://home.cse.ust.hk/~arya/hkust_only/comp5712/lectures.html)
+[NT - CS261,Standord / Optimization and Algorithmic Paradigms](http://theory.stanford.edu/~trevisan/cs261/)
 
-[CR - CS261,Standord / Optimization and Algorithmic Paradigms](http://theory.stanford.edu/~trevisan/cs261/)
 
-[CR - 18.453,MIT / Combinatorial Optimization](https://klein.mit.edu/~goemans/18453S17/18453.html)
 
 ## Books
 
