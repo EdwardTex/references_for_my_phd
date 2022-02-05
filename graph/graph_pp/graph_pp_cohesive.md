@@ -6,7 +6,7 @@
 
 [Community Search over Big Graphs](https://www.morganclaypool.com/doi/pdfplus/10.2200/S00928ED1V01Y201906DTM061)
 
-[Cohesive subgraph computation over large sparse graphs: algorithms, data structures, and programming techniques](https://b-ok.global/dl/3660662/2fb918)
+[Cohesive subgraph computation over large sparse graphs: algorithms, data structures, and programming techniques](https://b-ok.global/dl/3660662/7039a9)
 
 [A survey of community search over big graphs](https://link.springer.com/content/pdf/10.1007/s00778-019-00556-x.pdf)
 
