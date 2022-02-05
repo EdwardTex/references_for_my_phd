@@ -1,4 +1,9 @@
-# Graph - Books / TechReps / Blogs
+# Graph - Notes / Books / TechReps / Blogs
+
+## Notes (from Courses)
+
+[NT - CS367,Stanford / Algebraic graph algorithms](http://theory.stanford.edu/~virgi/cs367/)
+
 
 ## TechReps (Tutorials)
 
