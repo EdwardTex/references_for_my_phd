@@ -38,8 +38,10 @@
 
 [BK - P.M: Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 
+[BK - Operating Systems: Three Easy Pieces (page ver.)](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) [pdf ver.](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf)
 
-## Courses List
+
+## Courses
 
 [CR - The Missing Semester of Your CS Education]() [[Chinese Ver.]](https://missing-semester-cn.github.io/) [[Video Link]](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
