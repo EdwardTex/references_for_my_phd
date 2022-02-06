@@ -6,9 +6,11 @@
 
 [Books / TechReps / Blogs](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr.md)
 
-## DB
+## Sys
 
-[Paper Collection](https://github.com/EdwardTex/references_for_my_phd/blob/main/db/db_pp.md)
+[Database](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/db.md)
+
+[Distributed](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/distri.md)
 
 ## TCS
 

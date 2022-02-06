@@ -1,4 +1,4 @@
-# Classical Algorithms
+# Papers Collection - Classical Algorithms
 
 ### Survey / Book
 
