@@ -83,7 +83,7 @@
 
 #### String Matching
 
-[TP - Trie Tree for String](https://mp.weixin.qq.com/s/ZYtU4v9y2KMLT0d2X_MIZQ) [[Paper: Trie Memory]](https://dl.acm.org/doi/pdf/10.1145/367390.367400)
+[TP - Trie Tree for String](https://mp.weixin.qq.com/s/ZYtU4v9y2KMLT0d2X_MIZQ) | [[Paper: Trie Memory]](https://dl.acm.org/doi/pdf/10.1145/367390.367400)
 
 [TP - Boyer Moore for String](https://mp.weixin.qq.com/s/ZYtU4v9y2KMLT0d2X_MIZQ)
 
