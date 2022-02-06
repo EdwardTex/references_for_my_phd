@@ -2,7 +2,7 @@
 
 ### Talks
 
-[TK - Ion Stoica: Spark, Ray, and Enterprise Open Source](https://www.youtube.com/watch?v=-MVLURFH5nk) [[sum1]](https://zhuanlan.zhihu.com/p/464071406) [sum2](https://zhuanlan.zhihu.com/p/463958487)
+[TK - Ion Stoica: Spark, Ray, and Enterprise Open Source](https://www.youtube.com/watch?v=-MVLURFH5nk) [[sum1]](https://zhuanlan.zhihu.com/p/464071406) [[sum2]](https://zhuanlan.zhihu.com/p/463958487)
 
 ### Books
 
