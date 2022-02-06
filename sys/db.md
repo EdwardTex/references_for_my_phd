@@ -4,6 +4,8 @@
 
 [PR - Classical Algorithms](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/db/db_pp_ca.md)
 
+[PR - Good Thesis](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/db/db_pp_th.md)
+
 
 ### Courses
 
