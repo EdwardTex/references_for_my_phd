@@ -71,7 +71,7 @@
 
 [Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf) [[video]](https://www.ijcai.org/proceedings/2020/490)
 
-[Effective and Efficient Community Search Over Large Directed Graphs](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
+[Effective and Efficient Community Search Over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
 
 [DBL: Efficient Reachability Queries on Dynamic Graphs](https://arxiv.org/pdf/2101.09441)
 
