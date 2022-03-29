@@ -28,6 +28,17 @@
 
 [Approximate Triangle Counting](https://arxiv.org/pdf/0904.3761)
 
+[A Survey of Techniques For Approximate Subgraph Counting](https://eshaannichani.com/projects/6_856_Final_Project.pdf)
+
+[Butterfly Counting in Bipartite Networks](https://dl.acm.org/doi/pdf/10.1145/3219819.3220097)
+
+[sGrapp: Butterfly Approximation in Streaming Graphs](https://dl.acm.org/doi/pdf/10.1145/3495011?casa_token=VMBXWTnIokcAAAAA:4amEWktYS_ElHii0flEMUW3zQMLKOtV5t4YGsosLSmSFV7xM5HvNI_IWLimIWdAiiRxYa2xImAoMnA)
+
+[Approximately Counting Butterflies in Large Bipartite Graph Streams](https://ieeexplore.ieee.org/iel7/69/4358933/09366975.pdf?casa_token=5qDjn_KjZEoAAAAA:cV8tMRzpESOTEJM1cOIOKn1VLzD2TETz5v57LV2N536K27Sn-7EEGt_DfUrWHHmOzRtGoAOXiw)
+
+[Buterfly Counting on Uncertain Bipartite Graphs](https://dl.acm.org/doi/pdf/10.14778/3489496.3489502?casa_token=uqHyHxCEsRkAAAAA:CTZSPqPXwo-T7m4AKOoXV09rEQnhJYfKrdcBbnXGBbehbhbccbVrlYg_ZdgX-ikJsepQeLTnXuk45w)
+
+
 ### Core
 
 [Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
