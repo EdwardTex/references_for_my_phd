@@ -24,6 +24,9 @@
 
 [B. Liu - Efficient Core Computation in Bipartite and Multilayer Graphs](https://unsworks.unsw.edu.au/fapi/datastream/unsworks:71240/SOURCE02?view=true)
 
+### Approximation
+
+[Approximate Triangle Counting](https://arxiv.org/pdf/0904.3761)
 
 ### Core
 
