@@ -16,6 +16,8 @@
 
 [A Survey on Subgraph Counting: Concepts, Algorithms, and Applications to Network Motifs and Graphlets](https://dl.acm.org/doi/pdf/10.1145/3433652)
 
+[Fast Hierarchy Construction for Dense Subgraphs](http://www.vldb.org/pvldb/vol10/p97-sariyuce.pdf)
+
 ### Thesis
 
 [C. Li - Cohesive Subgraph Search in Big Graphs](https://opus.lib.uts.edu.au/bitstream/10453/148836/1/01Front.pdf)
@@ -23,13 +25,74 @@
 [B. Liu - Efficient Core Computation in Bipartite and Multilayer Graphs](https://unsworks.unsw.edu.au/fapi/datastream/unsworks:71240/SOURCE02?view=true)
 
 
-### Community Search
+### Core
 
-[Effective and Efficient Community Search over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
+[Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
+
+[Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
+
+[Distributed Approximate k-Core Decomposition and Min-Max Edge Orientation: Breaking the Diameter Barrier](https://www.sciencedirect.com/science/article/pii/S0743731520303506/pdfft?md5=5c8b721bcfcef2c85f0cd8170704b698&pid=1-s2.0-S0743731520303506-main.pdf)
+
+[Fully Dynamic Approximate k-Core Decomposition in Hypergraphs](https://dl.acm.org/doi/pdf/10.1145/3385416)
+
+[Incremental k-core decomposition: algorithms and evaluation](https://link.springer.com/content/pdf/10.1007/s00778-016-0423-8.pdf)
+
+
+### (k,h)-core
+
+[Distance-generalized Core Decomposition](https://dl.acm.org/doi/pdf/10.1145/3299869.3324962)
+
+[Local Algorithms for Distance-generalized Core Decomposition over Large Dynamic Graphs](http://vldb.org/pvldb/vol14/p1531-xu.pdf)
+
+
+### (alpha,beta)-core
+
+[Efficient Fault-Tolerant Group Recommendation Using (alpha,beta)-core](https://www.researchgate.net/profile/Zhipeng-Huang-9/publication/320440703_Efficient_Fault-Tolerant_Group_Recommendation_Using_alpha-beta-core/links/59e55f6aaca272390ed64cb2/Efficient-Fault-Tolerant-Group-Recommendation-Using-alpha-beta-core.pdf)
+
+[Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve)
+
+[Efficient and Effective Community Search on Large-scale Bipartite Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458793)
+
+[Discovering Significant Communities on Bipartite Graphs: An Index-based Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534476)
+
+[Pareto-optimal Community Search on Large Bipartite Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482282)
+
+
+### D-core
+
+[Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf) [[video]](https://www.ijcai.org/proceedings/2020/490)
+
+[Effective and Efficient Community Search Over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
+
+[DBL: Efficient Reachability Queries on Dynamic Graphs](https://arxiv.org/pdf/2101.09441)
+
+[Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf)
+
+
+### Clique
+
+[Parallel Clique Counting and Peeling Algorithms](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976830.13)
+
+[Diversified top-k clique search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7113300)
+
+
+### Truss
+
+[Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.1145/3299869.3300082)
+
+[Efficient Estimation of Graph Trussness](https://arxiv.org/pdf/2010.00967)
+
+[Efficient Probabilistic Truss Indexing on Uncertain Graphs](https://dl.acm.org/doi/pdf/10.1145/3442381.3449976)
 
 [On Breaking Truss-Based Communities](https://dl.acm.org/doi/pdf/10.1145/3447548.3467365)
 
-### Bitruss
+
+### Bi-triangle
+
+[Efficient Bi-triangle Counting for Large Bipartite Networks](http://vldb.org/pvldb/vol14/p984-yang.pdf)
+
+
+### Bitruss/Biclique
 
 [Bitruss Decomposition of Bipartite Graphs](https://link.springer.com/chapter/10.1007/978-3-319-32049-6_14)
 
@@ -47,64 +110,6 @@
 
 [Peeling Bipartite Networks for Dense Subgraph Discovery](https://dl.acm.org/doi/pdf/10.1145/3159652.3159678)
 
-### Truss
+[Effective and Efficient Community Search over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
 
-[Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.1145/3299869.3300082)
 
-[Efficient Estimation of Graph Trussness](https://arxiv.org/pdf/2010.00967)
-
-[Efficient Probabilistic Truss Indexing on Uncertain Graphs](https://dl.acm.org/doi/pdf/10.1145/3442381.3449976)
-
-### (alpha,beta)-core
-
-[Efficient Fault-Tolerant Group Recommendation Using (alpha,beta)-core](https://www.researchgate.net/profile/Zhipeng-Huang-9/publication/320440703_Efficient_Fault-Tolerant_Group_Recommendation_Using_alpha-beta-core/links/59e55f6aaca272390ed64cb2/Efficient-Fault-Tolerant-Group-Recommendation-Using-alpha-beta-core.pdf)
-
-[Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve)
-
-[Efficient and Effective Community Search on Large-scale Bipartite Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458793)
-
-[Discovering Significant Communities on Bipartite Graphs: An Index-based Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534476)
-
-[Pareto-optimal Community Search on Large Bipartite Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482282)
-
-### D-core
-
-[Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf) [[video]](https://www.ijcai.org/proceedings/2020/490)
-
-[Effective and Efficient Community Search Over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
-
-[DBL: Efficient Reachability Queries on Dynamic Graphs](https://arxiv.org/pdf/2101.09441)
-
-### Hierarchy
-
-[Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
-
-[Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf)
-
-[Fast Hierarchy Construction for Dense Subgraphs](http://www.vldb.org/pvldb/vol10/p97-sariyuce.pdf)
-
-### Core
-
-[Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
-
-[Distributed Approximate k-Core Decomposition and Min-Max Edge Orientation: Breaking the Diameter Barrier](https://www.sciencedirect.com/science/article/pii/S0743731520303506/pdfft?md5=5c8b721bcfcef2c85f0cd8170704b698&pid=1-s2.0-S0743731520303506-main.pdf)
-
-[Fully Dynamic Approximate k-Core Decomposition in Hypergraphs](https://dl.acm.org/doi/pdf/10.1145/3385416)
-
-[Incremental k-core decomposition: algorithms and evaluation](https://link.springer.com/content/pdf/10.1007/s00778-016-0423-8.pdf)
-
-### (k,h)-core
-
-[Distance-generalized Core Decomposition](https://dl.acm.org/doi/pdf/10.1145/3299869.3324962)
-
-[Local Algorithms for Distance-generalized Core Decomposition over Large Dynamic Graphs](http://vldb.org/pvldb/vol14/p1531-xu.pdf)
-
-### Clique
-
-[Parallel Clique Counting and Peeling Algorithms](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976830.13)
-
-[Diversified top-k clique search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7113300)
-
-### Bi-triangle
-
-[Efficient Bi-triangle Counting for Large Bipartite Networks](http://vldb.org/pvldb/vol14/p984-yang.pdf)
