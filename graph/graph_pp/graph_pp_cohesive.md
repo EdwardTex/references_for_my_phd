@@ -28,6 +28,8 @@
 
 [Approximate Triangle Counting](https://arxiv.org/pdf/0904.3761)
 
+[Efficient Estimation of Graph Trussness](https://arxiv.org/pdf/2010.00967)
+
 [A Survey of Techniques For Approximate Subgraph Counting](https://eshaannichani.com/projects/6_856_Final_Project.pdf)
 
 [Butterfly Counting in Bipartite Networks](https://dl.acm.org/doi/pdf/10.1145/3219819.3220097)
