@@ -7,6 +7,8 @@
 
 ## TechReps (Tutorials)
 
+[TR - Papers on Graph Analytics (from MIT CSAIL)](https://people.csail.mit.edu/jshun/graph.shtml)
+
 [TR - NOIP](https://github.com/huzecong/oi-slides/blob/master/2015-noip-graph-theory/%E5%9B%BE%E8%AE%BA_final.pdf)
 
 [TR - Graph Theory for Network Science](http://www.jsums.edu/nmeghanathan/files/2016/01/CSC641-Sp2016-QB-Module-1-GraphTheory.pdf?x61976)
