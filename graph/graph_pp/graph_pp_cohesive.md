@@ -82,7 +82,6 @@
 
 [DBL: Efficient Reachability Queries on Dynamic Graphs](https://arxiv.org/pdf/2101.09441)
 
-[Efficient Community Search over Large Directed Graphs: An Augmented Index-based Approach](https://www.ijcai.org/proceedings/2020/0490.pdf)
 
 
 ### Clique
