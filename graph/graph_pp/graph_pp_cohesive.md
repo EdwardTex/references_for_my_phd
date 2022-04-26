@@ -65,7 +65,7 @@
 
 [Efficient Fault-Tolerant Group Recommendation Using (alpha,beta)-core](https://www.researchgate.net/profile/Zhipeng-Huang-9/publication/320440703_Efficient_Fault-Tolerant_Group_Recommendation_Using_alpha-beta-core/links/59e55f6aaca272390ed64cb2/Efficient-Fault-Tolerant-Group-Recommendation-Using-alpha-beta-core.pdf)
 
-[Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve)
+[Efficient (α, β)-core Computation: an Index-based Approach](https://opus.lib.uts.edu.au/rest/bitstreams/bed76742-878c-445f-b1ed-2e4e889ff2b2/retrieve) [[Journal Ver.]](https://link.springer.com/content/pdf/10.1007/s00778-020-00606-9.pdf)
 
 [Efficient and Effective Community Search on Large-scale Bipartite Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458793)
 
