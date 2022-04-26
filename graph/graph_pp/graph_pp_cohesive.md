@@ -73,6 +73,8 @@
 
 [Pareto-optimal Community Search on Large Bipartite Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482282)
 
+[Generalized core maintenance of dynamic bipartite graphs](https://link.springer.com/content/pdf/10.1007/s10618-021-00805-0.pdf)
+
 
 ### D-core
 
