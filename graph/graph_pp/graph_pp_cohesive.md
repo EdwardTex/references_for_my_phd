@@ -83,8 +83,6 @@
 [Effective and Efficient Community Search Over Large Directed Graphs](https://ieeexplore.ieee.org/iel7/69/4358933/08481531.pdf?casa_token=WAtKK4403roAAAAA:GbeLi4E-VGfsdi70UC-oR_cJ8h5_HXxFF57ocRYvbgQKvMlakDWM5ITSUA-GFUbt8oPkoK_VgQ)
 
 
-
-
 ### Clique
 
 [Parallel Clique Counting and Peeling Algorithms](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976830.13)
@@ -101,6 +99,12 @@
 [Efficient Probabilistic Truss Indexing on Uncertain Graphs](https://dl.acm.org/doi/pdf/10.1145/3442381.3449976)
 
 [On Breaking Truss-Based Communities](https://dl.acm.org/doi/pdf/10.1145/3447548.3467365)
+
+### D-Truss
+
+[Truss-based community search over large directed graphs](https://dl.acm.org/doi/pdf/10.1145/3318464.3380587?casa_token=ldZ0zuvQ5voAAAAA:5DjiIAbcH7irdyjvG3Rr7VCay6d8MRqFAx32pKaUYW6ZX94GN9rT122tyz6fmCar9SCoOtYcAGFyZw)
+
+[Cycle and flow trusses in directed networks](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.160270)
 
 
 ### Bi-triangle
