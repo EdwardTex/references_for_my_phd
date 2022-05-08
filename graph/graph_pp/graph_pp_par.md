@@ -15,6 +15,6 @@
 
 [Vertex-centric Parallel Computation of SQL Queries](https://dl.acm.org/doi/10.1145/3448016.3457314)
 
-[Parallel Index-Based Structural Graph Clustering and Its Approximation]()
+[Parallel Index-Based Structural Graph Clustering and Its Approximation](https://dl.acm.org/doi/pdf/10.1145/3448016.3457278)
 
 
