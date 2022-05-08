@@ -2,7 +2,7 @@
 
 [Streaming](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp/graph_pp_stream.md)
 
-[Parallel / Partition](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp/graph_pp_par.md)
+[Parallel / Distributed / Partition](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp/graph_pp_par.md)
 
 [Incremental](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp/graph_pp_incre.md)
 
