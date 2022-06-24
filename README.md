@@ -1,5 +1,9 @@
 # References for My Phd
 
+## Conference Reading List
+
+[SIGMOD 2022](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp.md)
+
 ## Graph
 
 [Paper Collection](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp.md)
