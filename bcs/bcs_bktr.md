@@ -49,7 +49,25 @@
 
 ### Languages
 
-[LG - Rust](https://github.com/sunface/rust-course)
+#### Rust
+
+[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
+[Runoob Tr](https://www.runoob.com/rust/rust-tutorial.html)
+
+[Rust语言圣经](https://github.com/sunface/rust-course)
+
+#### Go
+
+[The Go Programming Language](https://beyondkmp.com/books/golang/The.Go.Programming.Language.pdf)
+
+[Runoob Tr](https://www.runoob.com/go/go-tutorial.html)
+
+### Design Pattern
+
+[Runoob Tr](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+
+
 
 ### Data Structures
 
