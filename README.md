@@ -16,6 +16,9 @@
 
 [Distributed](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/distri.md)
 
+[Compiler](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/distri.md)
+
+
 ## TCS
 
 [Paper Collection](https://github.com/EdwardTex/references_for_my_phd/blob/main/tcs/tcs_pp.md)
