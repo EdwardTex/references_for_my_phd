@@ -47,6 +47,8 @@
 
 [BG - site of jjhou](http://boolan.com/jjhou/)
 
+[hardcore cs](https://github.com/spring2go/cs_study_plan)
+
 ### Languages
 
 #### Rust
