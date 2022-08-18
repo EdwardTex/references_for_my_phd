@@ -2,7 +2,7 @@
 
 ### Notes
 
-[Dragon Book](https://github.com/Peefy/CompileDragonBook)
+[Dragon Book]() [Peefy](https://github.com/Peefy/CompileDragonBook) [Stanford](https://suif.stanford.edu/dragonbook/lecture-notes.html)
 
 ### Misc
 
