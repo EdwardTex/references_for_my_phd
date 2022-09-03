@@ -82,6 +82,12 @@
 
 [Effective and Efficient Community Search Over Large Directed Graphs](https://ieeexplore.ieee.org/iel7/69/4358933/08481531.pdf?casa_token=WAtKK4403roAAAAA:GbeLi4E-VGfsdi70UC-oR_cJ8h5_HXxFF57ocRYvbgQKvMlakDWM5ITSUA-GFUbt8oPkoK_VgQ)
 
+### [x,y]-core (SIGMOD2020 Best)
+
+[Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs](https://dl.acm.org/doi/pdf/10.1145/3318464.3389697)
+
+[On Directed Densest Subgraph Discovery](https://dl.acm.org/doi/pdf/10.1145/3483940)
+
 
 ### Clique
 
