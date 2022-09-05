@@ -118,6 +118,8 @@
 
 [Cycle and flow trusses in directed networks](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.160270)
 
+[Approximate Closest Community Search in Networks](https://dl.acm.org/doi/pdf/10.14778/2856318.2856323)
+
 
 ### Bi-triangle
 
