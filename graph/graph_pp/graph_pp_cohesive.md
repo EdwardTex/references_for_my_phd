@@ -53,6 +53,8 @@
 
 [Incremental k-core decomposition: algorithms and evaluation](https://link.springer.com/content/pdf/10.1007/s00778-016-0423-8.pdf)
 
+[Community Focusing: Yet Another Query-Dependent Community Detection](https://ojs.aaai.org/index.php/AAAI/article/view/3802/3680)
+
 
 ### (k,h)-core
 
