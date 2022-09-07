@@ -2,6 +2,8 @@
 
 ### Survey
 
+[A Survey on Graph Processing Accelerators: Challenges and Opportunities](https://jcst.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2512)
+
 [Graph algorithms: parallelization and scalability](https://link.springer.com/content/pdf/10.1007/s11432-020-2952-7.pdf)
 
 [Vertex-Centric Graph Processing: The Good, the Bad, and the Ugly](https://arxiv.org/pdf/1612.07404)
