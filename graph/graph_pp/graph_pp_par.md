@@ -2,7 +2,7 @@
 
 ### Survey
 
-[A Survey on Graph Processing Accelerators: Challenges and Opportunities](https://jcst.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2512)
+[A Survey on Graph Processing Accelerators: Challenges and Opportunities](https://link.springer.com/content/pdf/10.1007/s11390-019-1914-z.pdf)
 
 [Graph algorithms: parallelization and scalability](https://link.springer.com/content/pdf/10.1007/s11432-020-2952-7.pdf)
 
