@@ -10,6 +10,8 @@
 
 [Thinking Like a Vertex: A Survey of Vertex-Centric Frameworks for Large-Scale Distributed Graph Processing](https://dl.acm.org/doi/10.1145/2818185)
 
+[Papers on Big Data Meets New Hardware](https://readingxtra.github.io/#graph)
+
 
 ### Others
 
