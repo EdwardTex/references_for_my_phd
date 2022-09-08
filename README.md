@@ -10,7 +10,7 @@
 
 [Paper Collection](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp.md)
 
-[Books / TechReps / Blogs](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr.md)
+[Surveys / Books / TechReps / Blogs](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_bktr.md)
 
 ## Sys
 
