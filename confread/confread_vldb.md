@@ -42,6 +42,36 @@ Banyan: A Scoped Dataflow Engine for Graph Query Service
 
 Making RDBMSs Efficient on Graph Workloads Through Predefined Joins
 
+Incremental Partitioning for Efficient Spatial Data Analytics
+
+Distributed Hop-Constrained s-t Simple Path Enumeration at Billion Scale
+
+HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework
+
+BAGUA: Scaling up Distributed Learning with System Relaxations
+
+PACk: An Efficient Partition-based Distributed Agglomerative Hierarchical Clustering Algorithm for Deduplication
+
+In-Network Leaderless Replication for Distributed Data Stores
+
+LEGOStore: A Linearizable Geo-Distributed Store Combining Replication and Erasure Coding
+
+SwitchTx: Scalable In-Network Coordination for Distributed Transaction Processing
+
+OceanBase: A 707 Million tpmC Distributed Relational Database System
+
+ParChain: A Framework for Parallel Hierarchical Agglomerative Clustering using Nearest-Neighbor Chain
+
+Theoretically and Practically Efficient Parallel Nucleus Decomposition
+
+Parallel Training of Knowledge Graph Embedding Models: A Comparison of Techniques
+
+Flexible Rule-Based Decomposition and Metadata Independence in Modin: A Parallel Dataframe System
+
+UPLIFT: Parallelization Strategies for Feature Transformations in Machine Learning Workloads
+
+Lotus: Scalable Multi-Partition Transactions on Single-Threaded Partitioned Databases
+
 ### Learning
 
 Fast Neural Ranking on Bipartite Graph Indices
