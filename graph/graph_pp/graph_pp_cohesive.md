@@ -148,4 +148,7 @@
 
 [Effective and Efficient Community Search over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
 
+### Community Search
+
+[Community Search: Learn from Small Data](https://arxiv.org/abs/2201.00288)
 
