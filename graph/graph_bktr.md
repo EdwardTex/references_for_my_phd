@@ -1,4 +1,8 @@
-# Graph - Notes / Books / TechReps / Blogs
+# Graph - Surveys / Notes / Books / TechReps / Blogs
+
+## Surveys
+
+[The future is big graphs: a community view on graph processing systems](https://arxiv.org/abs/2012.06171)
 
 ## Notes (from Courses)
 
