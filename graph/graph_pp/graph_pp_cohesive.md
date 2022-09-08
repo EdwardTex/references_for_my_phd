@@ -152,5 +152,9 @@
 
 [Community Search: Learn from Small Data](https://arxiv.org/abs/2201.00288)
 
-[Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks]()
+[Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p1723-jian.pdf)
+
+[Community Focusing: Yet Another Query-Dependent Community Detection](https://ojs.aaai.org/index.php/AAAI/article/view/3802)
+
+[Top-k Community Similarity Search Over Large Road-Network Graphs](https://ieeexplore.ieee.org/document/9458736)
 
