@@ -60,3 +60,9 @@ HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training
 Camel: Managing Data for Efficient Stream Learning
 
 Causal Feature Selection for Algorithmic Fairness
+
+## 2021
+
+### Graph
+
+[Accelerating Triangle Counting on GPU](https://dl.acm.org/doi/pdf/10.1145/3448016.3452815)
