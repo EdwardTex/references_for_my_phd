@@ -1,5 +1,7 @@
 # Incremental Algorithm
 
+[Agenda: Robust Personalized PageRanks in Evolving Graphs](https://dl.acm.org/doi/abs/10.1145/3459637.3482317)
+
 [EIGA: elastic and scalable dynamic graph analysis](https://dl.acm.org/doi/pdf/10.1145/3458817.3480857)
 
 [Incremental Graph Computations: Doable and Undoable](https://dl.acm.org/doi/pdf/10.1145/3035918.3035944)
