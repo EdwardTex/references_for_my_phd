@@ -18,7 +18,7 @@ Identifying Similar-Bicliques in Bipartite Graphs
 
 Effective Indexing for Dynamic Structural Graph Clustering
 
-RapidFlow: An E￿icient Approach to Continuous Subgraph Matching
+RapidFlow: An Efficient Approach to Continuous Subgraph Matching
 
 Towards Distributed Bitruss Decomposition on Bipartite Graphs
 
@@ -45,4 +45,22 @@ Making RDBMSs Efficient on Graph Workloads Through Predefined Joins
 ### Learning
 
 Fast Neural Ranking on Bipartite Graph Indices
+
+SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization
+
+Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting
+
+Ginex: SSD-enabled Billion-scale Graph Neural Network Training on a Single Machine via Provably Optimal In-memory Caching
+
+A Scalable AutoML Approach Based on Graph Neural Networks
+
+SANCUS: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks
+
+Distributed Learning of Fully Connected Neural Networks using Independent Subnet Training
+
+ByteGNN: Efficient Graph Neural Network Training at Large Scale
+
+Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks
+
+METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting
 
