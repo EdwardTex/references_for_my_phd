@@ -152,3 +152,5 @@
 
 [Community Search: Learn from Small Data](https://arxiv.org/abs/2201.00288)
 
+[Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks]()
+
