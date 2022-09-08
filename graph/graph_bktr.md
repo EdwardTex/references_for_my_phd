@@ -2,6 +2,8 @@
 
 ## Surveys
 
+[Cohesive Subgraph Search Over Large Heterogeneous Information Networks](https://dl.acm.org/doi/abs/10.1145/3448016.3457538)
+
 [The future is big graphs: a community view on graph processing systems](https://arxiv.org/abs/2012.06171)
 
 ## Notes (from Courses)
