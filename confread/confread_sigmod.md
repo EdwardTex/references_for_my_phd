@@ -6,7 +6,9 @@
 
 - [x] A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery
 
-  > relate with network flow and bipartitie matching, provide LP derivation and exact & approximation algorithms.
+  > - relate DDS with network flow and bipartitie matching;
+  > - formualte set of LP, utilizing duality;
+  > - provide exact & approximation algorithms;
 
 Efficient Algorithms for Maximal $k$-Biplex Enumeration
 
