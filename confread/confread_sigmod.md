@@ -6,6 +6,8 @@
 
 - [x] A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery
 
+  > relate with network flow and bipartitie matching, provide LP derivation and exact & approximation algorithms.
+
 Efficient Algorithms for Maximal $k$-Biplex Enumeration
 
 Hunting Temporal Bumps in Graphs with Dynamic Vertex Properties
