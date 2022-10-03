@@ -20,8 +20,8 @@ Effective Indexing for Dynamic Structural Graph Clustering
 
 - [x] RapidFlow: An Efficient Approach to Continuous Subgraph Matching
 > - Subgraph Matching on streaming graphs;
-  > - two issues: redundant computation of the exisitings and automorphisms in Q;
-  > - the proposed solution consists: Query reduction and Dual matching;
+> - two issues: redundant computation of the exisitings and automorphisms in Q;
+> - the proposed solution consists: Query reduction and Dual matching;
 
 Towards Distributed Bitruss Decomposition on Bipartite Graphs
 
