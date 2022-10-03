@@ -4,7 +4,7 @@
 
 ### Graph
 
-[x] A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery
+- [x] A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery
 
 Efficient Algorithms for Maximal $k$-Biplex Enumeration
 
