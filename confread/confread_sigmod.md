@@ -71,38 +71,38 @@ Causal Feature Selection for Algorithmic Fairness
 
 [Accelerating Triangle Counting on GPU](https://dl.acm.org/doi/pdf/10.1145/3448016.3452815)
 
-Incrementalizing Graph Algorithms
+[Incrementalizing Graph Algorithms](https://doi.org/10.1145/3448016.3452796)
 
-iTurboGraph: Scaling and Automating Incremental Graph Analytics 
+[iTurboGraph: Scaling and Automating Incremental Graph Analytics](https://doi.org/10.1145/3448016.3457243)
 
-Dynamic Structural Clustering on Graphs
+[Dynamic Structural Clustering on Graphs](https://doi.org/10.1145/3448016.3452828)
 
-Parallel Index-Based Structural Graph Clustering and Its Approximation
+[Parallel Index-Based Structural Graph Clustering and Its Approximation](https://doi.org/10.1145/3448016.3457278)
 
-Hybrid Edge Partitioner: Partitioning Large Power-Law Graphs under Memory Constraints
+[Hybrid Edge Partitioner: Partitioning Large Power-Law Graphs under Memory Constraints](https://doi.org/10.1145/3448016.3457300)
 
-Graph Iso/Auto-morphism: A Divide-&-Conquer Approach
+[Graph Iso/Auto-morphism: A Divide-&-Conquer Approach](https://doi.org/10.1145/3448016.3452820)
 
-GPU-Accelerated Graph Label Propagation for Real-Time Fraud Detection
+[GPU-Accelerated Graph Label Propagation for Real-Time Fraud Detection](https://doi.org/10.1145/3448016.3452774)
 
-LightNE: A Lightweight Graph Processing System for Network Embedding
+[LightNE: A Lightweight Graph Processing System for Network Embedding](https://doi.org/10.1145/3448016.3457329)
 
-APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding
+[APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding](https://doi.org/10.1145/3448016.3457564)
 
-HUGE: An Efficient and Scalable Subgraph Enumeration System
+[HUGE: An Efficient and Scalable Subgraph Enumeration System](https://doi.org/10.1145/3448016.3457237)
 
-Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching
+[Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching](https://doi.org/10.1145/3448016.3457265)
 
-Making Graphs Compact by Lossless Contraction
+[Making Graphs Compact by Lossless Contraction](https://doi.org/10.1145/3448016.3452797)
 
-Efficient Exploration of Interesting Aggregates in RDF Graphs
+[Efficient Exploration of Interesting Aggregates in RDF Graphs](https://doi.org/10.1145/3448016.3457307)
 
-To Intervene or Not To Intervene: Cost based Intervention for Combating Fake News
+[To Intervene or Not To Intervene: Cost based Intervention for Combating Fake News](https://doi.org/10.1145/3448016.3452778)
 
-PG-Keys: Keys for Property Graphs
+[PG-Keys: Keys for Property Graphs](https://doi.org/10.1145/3448016.3457561)
 
-Combining Sampling and Synopses with Worst-Case Optimal Runtime And Quality Guarantees for Graph Pattern Cardinality Estimation
+[Combining Sampling and Synopses with Worst-Case Optimal Runtime And Quality Guarantees for Graph Pattern Cardinality Estimation](https://doi.org/10.1145/3448016.3457246)
 
-Cache-Efficient Fork-Processing Patterns on Large Graphs
+[Cache-Efficient Fork-Processing Patterns on Large Graphs](https://doi.org/10.1145/3448016.3457253)
 
-Efficient Graph Summarization using Weighted LSH at Billion-Scale
+[Efficient Graph Summarization using Weighted LSH at Billion-Scale](https://doi.org/10.1145/3448016.3457331)
