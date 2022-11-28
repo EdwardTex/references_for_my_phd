@@ -70,3 +70,39 @@ Causal Feature Selection for Algorithmic Fairness
 ### Graph
 
 [Accelerating Triangle Counting on GPU](https://dl.acm.org/doi/pdf/10.1145/3448016.3452815)
+
+Incrementalizing Graph Algorithms
+
+iTurboGraph: Scaling and Automating Incremental Graph Analytics 
+
+Dynamic Structural Clustering on Graphs
+
+Parallel Index-Based Structural Graph Clustering and Its Approximation
+
+Hybrid Edge Partitioner: Partitioning Large Power-Law Graphs under Memory Constraints
+
+Graph Iso/Auto-morphism: A Divide-&-Conquer Approach
+
+GPU-Accelerated Graph Label Propagation for Real-Time Fraud Detection
+
+LightNE: A Lightweight Graph Processing System for Network Embedding
+
+APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding
+
+HUGE: An Efficient and Scalable Subgraph Enumeration System
+
+Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching
+
+Making Graphs Compact by Lossless Contraction
+
+Efficient Exploration of Interesting Aggregates in RDF Graphs
+
+To Intervene or Not To Intervene: Cost based Intervention for Combating Fake News
+
+PG-Keys: Keys for Property Graphs
+
+Combining Sampling and Synopses with Worst-Case Optimal Runtime And Quality Guarantees for Graph Pattern Cardinality Estimation
+
+Cache-Efficient Fork-Processing Patterns on Large Graphs
+
+Efficient Graph Summarization using Weighted LSH at Billion-Scale
