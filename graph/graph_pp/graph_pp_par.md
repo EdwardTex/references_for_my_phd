@@ -26,6 +26,8 @@
 
 [Scalable Edge Partitioning](https://arxiv.org/abs/1808.06411)
 
+[Distributed Edge Partitioning for Trillion-edge Graphs](http://www.vldb.org/pvldb/vol12/p2379-hanai.pdf)
+
 ### Vertex-centric
 
 [Vertex-Centric Graph Processing: The Good, the Bad, and the Ugly](https://arxiv.org/pdf/1612.07404)
