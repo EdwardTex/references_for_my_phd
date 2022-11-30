@@ -22,6 +22,10 @@
 
 [Graph Partitioning with Natural Cuts](http://ieeexplore.ieee.org/document/6012851/)
 
+### Edge-centric
+
+[Scalable Edge Partitioning](https://arxiv.org/abs/1808.06411)
+
 ### Vertex-centric
 
 [Vertex-Centric Graph Processing: The Good, the Bad, and the Ugly](https://arxiv.org/pdf/1612.07404)
