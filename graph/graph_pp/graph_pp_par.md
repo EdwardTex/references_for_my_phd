@@ -8,6 +8,10 @@
 
 [Recent Advances in Graph Partitioning](https://arxiv.org/abs/1311.3144)
 
+### Distributed
+
+[Tesseract: Distributed, General Graph Pattern Mining on Evolving Graphs](https://dl.acm.org/doi/pdf/10.1145/3447786.3456253)
+
 ### Partitioning (General)
 
 [Time-Efficient and High-Quality Graph Partitioning for Graph Dynamic Scaling](https://arxiv.org/pdf/2101.07026)
