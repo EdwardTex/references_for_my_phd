@@ -163,3 +163,11 @@
 
 [Efficient Maximal Biclique Enumeration for Large Sparse Bipartite Graphs](https://dl.acm.org/doi/pdf/10.14778/3529337.3529341)
 
+[Pivot-based Maximal Biclique Enumeration](https://www.ijcai.org/proceedings/2020/0492.pdf)
+
+[Efficient Exact Algorithms for Maximum Balanced Biclique Search in Bipartite Graphs](https://dl.acm.org/doi/abs/10.1145/3448016.3459241)
+
+[On Maximizing the Vertex Coverage for Top-k t-Biclique in Bipartite Graphs](https://ieeexplore.ieee.org/document/9835625)
+
+[Shared-memory parallel maximal clique enumeration](https://ieeexplore.ieee.org/document/8638066)
+
