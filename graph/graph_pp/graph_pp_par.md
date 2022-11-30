@@ -6,6 +6,8 @@
 
 [Papers on Big Data Meets New Hardware](https://readingxtra.github.io/#graph)
 
+[Recent Advances in Graph Partitioning](https://arxiv.org/abs/1311.3144)
+
 ### Partitioning (General)
 
 [Time-Efficient and High-Quality Graph Partitioning for Graph Dynamic Scaling](https://arxiv.org/pdf/2101.07026)
