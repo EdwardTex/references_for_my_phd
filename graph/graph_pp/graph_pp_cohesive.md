@@ -171,3 +171,8 @@
 
 [Shared-memory parallel maximal clique enumeration](https://ieeexplore.ieee.org/document/8638066)
 
+[Incremental maintenance of maximal bicliques in a dynamic bipartite graph](https://ieeexplore.ieee.org/document/8283558)
+
+[Efficient maintenance for maximal bicliques in bipartite graph streams](https://dl.acm.org/doi/abs/10.1007/s11280-021-00927-x)
+
+[A change-sensitive algorithm for maintaining maximal bicliques in a dynamic bipartite graph](https://arxiv.org/abs/1707.08272)
