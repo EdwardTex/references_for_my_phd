@@ -24,6 +24,18 @@
 
 [B. Liu - Efficient Core Computation in Bipartite and Multilayer Graphs](https://unsworks.unsw.edu.au/fapi/datastream/unsworks:71240/SOURCE02?view=true)
 
+### Community Search
+
+[Community Search: Learn from Small Data](https://arxiv.org/abs/2201.00288)
+
+[Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p1723-jian.pdf)
+
+[Community Focusing: Yet Another Query-Dependent Community Detection](https://ojs.aaai.org/index.php/AAAI/article/view/3802)
+
+[Top-k Community Similarity Search Over Large Road-Network Graphs](https://ieeexplore.ieee.org/document/9458736)
+
+[Effective and Efficient Community Search over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
+
 ### Approx
 
 [Approximate Triangle Counting](https://arxiv.org/pdf/0904.3761)
@@ -128,7 +140,7 @@
 [Efficient Bi-triangle Counting for Large Bipartite Networks](http://vldb.org/pvldb/vol14/p984-yang.pdf)
 
 
-### Bitruss/Biclique
+### Bitruss/Butterfly
 
 [Bitruss Decomposition of Bipartite Graphs](https://link.springer.com/chapter/10.1007/978-3-319-32049-6_14)
 
@@ -138,23 +150,16 @@
 
 [Approximately Counting Butterflies in Large Bipartite Graph Streams](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366975)
 
-[Maximum Biclique Search at Billion Scale](https://opus.lib.uts.edu.au/bitstream/10453/146526/2/3397230.3397234.pdf)
-
 [Parallel algorithms for butterfly computations](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976021.2)
 
 [Rectangle Counting in Large Bipartite Graphs](https://ieeexplore.ieee.org/iel7/6902663/6906742/06906756.pdf)
 
 [Peeling Bipartite Networks for Dense Subgraph Discovery](https://dl.acm.org/doi/pdf/10.1145/3159652.3159678)
 
-[Effective and Efficient Community Search over Large Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p854-fang.pdf)
 
-### Community Search
+### Biclique
 
-[Community Search: Learn from Small Data](https://arxiv.org/abs/2201.00288)
+[Maximum Biclique Search at Billion Scale](https://opus.lib.uts.edu.au/bitstream/10453/146526/2/3397230.3397234.pdf)
 
-[Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p1723-jian.pdf)
-
-[Community Focusing: Yet Another Query-Dependent Community Detection](https://ojs.aaai.org/index.php/AAAI/article/view/3802)
-
-[Top-k Community Similarity Search Over Large Road-Network Graphs](https://ieeexplore.ieee.org/document/9458736)
+[Efficient Maximal Biclique Enumeration for Large Sparse Bipartite Graphs](https://dl.acm.org/doi/pdf/10.14778/3529337.3529341)
 
