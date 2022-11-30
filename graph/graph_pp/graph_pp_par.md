@@ -16,6 +16,8 @@
 
 [Genetic Approaches for Graph Partitioning: A Survey](https://dl.acm.org/doi/pdf/10.1145/2001576.2001642)
 
+[Streaming Graph Partitioning for Large Distributed Graphs](https://dl.acm.org/doi/pdf/10.1145/2339530.2339722)
+
 ### Vertex-centric
 
 [Vertex-Centric Graph Processing: The Good, the Bad, and the Ugly](https://arxiv.org/pdf/1612.07404)
