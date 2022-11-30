@@ -30,6 +30,8 @@
 
 [A Simple Yet Effective Balanced Edge Partition Model for Parallel Computing](https://dl.acm.org/doi/pdf/10.1145/3084451)
 
+[Hybrid Edge Partitioner: Partitioning Large Power-Law Graphs under Memory Constraints](https://dl.acm.org/doi/10.1145/3448016.3457300)
+
 ### Vertex-centric
 
 [Vertex-Centric Graph Processing: The Good, the Bad, and the Ugly](https://arxiv.org/pdf/1612.07404)
