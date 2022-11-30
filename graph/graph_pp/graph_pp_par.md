@@ -28,6 +28,8 @@
 
 [Distributed Edge Partitioning for Trillion-edge Graphs](http://www.vldb.org/pvldb/vol12/p2379-hanai.pdf)
 
+[A Simple Yet Effective Balanced Edge Partition Model for Parallel Computing](https://dl.acm.org/doi/pdf/10.1145/3084451)
+
 ### Vertex-centric
 
 [Vertex-Centric Graph Processing: The Good, the Bad, and the Ugly](https://arxiv.org/pdf/1612.07404)
