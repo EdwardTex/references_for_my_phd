@@ -159,6 +159,8 @@
 
 ### Biclique
 
+[Enumerating Maximal Bicliques from a Large Graph Using MapReduce](https://ieeexplore.ieee.org/document/7398146)
+
 [Maximum Biclique Search at Billion Scale](https://opus.lib.uts.edu.au/bitstream/10453/146526/2/3397230.3397234.pdf)
 
 [Efficient Maximal Biclique Enumeration for Large Sparse Bipartite Graphs](https://dl.acm.org/doi/pdf/10.14778/3529337.3529341)
