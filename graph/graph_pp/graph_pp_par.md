@@ -12,6 +12,16 @@
 
 [Tesseract: Distributed, General Graph Pattern Mining on Evolving Graphs](https://dl.acm.org/doi/pdf/10.1145/3447786.3456253)
 
+#### Distributed Decomposition
+
+[Towards distributed bitruss decomposition on bipartite graphs](https://www.vldb.org/pvldb/vol15/p1889-wang.pdf)
+
+[Distributed D-core Decomposition over Large Directed Graphs](https://arxiv.org/pdf/2202.05990)
+
+[Distributed algorithms for k-truss decomposition](https://ieeexplore.ieee.org/abstract/document/7004264)
+
+[Distributed Algorithm for Truss Maintenance in Dynamic Graphs](https://link.springer.com/chapter/10.1007/978-3-030-69244-5_9)
+
 ### Partitioning (General)
 
 [Time-Efficient and High-Quality Graph Partitioning for Graph Dynamic Scaling](https://arxiv.org/pdf/2101.07026)
