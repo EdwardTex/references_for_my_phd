@@ -14,7 +14,7 @@
 
 #### Distributed Decomposition
 
-[Towards distributed bitruss decomposition on bipartite graphs](https://www.vldb.org/pvldb/vol15/p1889-wang.pdf)
+Towards distributed bitruss decomposition on bipartite graphs [vldb ver.](https://www.vldb.org/pvldb/vol15/p1889-wang.pdf) [full ver.](https://keithyue.github.io/files/vldb22-DBitruss.pdf)
 
 [Distributed D-core Decomposition over Large Directed Graphs](https://arxiv.org/pdf/2202.05990)
 
