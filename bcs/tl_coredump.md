@@ -15,15 +15,21 @@
 内存问题始终是c++程序员需要去面对的问题，这也是c++语言的门槛较高的原因之一。通常我们会犯的内存问题大概有以下几种：
 
 1.内存重复释放，出现double free时，通常是由于这种情况所致。
+
 2.内存泄露，分配的内存忘了释放。
+
 3.内存越界使用，使用了不该使用的内存。
+
 4.使用了无效指针。
+
 5.空指针，对一个空指针进行操作。
 
 对于第一种和第二种，第五种情况，就不用多说，会产生什么后果大家应该都很清楚。
 
 第四种情况，通常是指操作已释放的对象，如：
+
 1.已释放对象，却再次操作该指针所指对象。
+
 2.多线程中某一动态分配的对象同时被两个线程使用，一个线程释放了该对象，而另一线程继续对该对象进行操作。
 
 我们重点探讨第三种情况，相对于另几种情况，这可以称得上是疑难杂症了（第四种情况也可以理解成内存越界使用）。
@@ -42,16 +48,16 @@ for(int i=0; i<n; i++)// n < 32 or n > 32
 ```
 例2:
 ```
-        char buf[32] = {0};
-        string str = "this is a test sting !!!!";
-        sprintf(buf, "this is a test buf!string:%s", str.c_str()); //out of buffer space
-        ....   
+char buf[32] = {0};
+string str = "this is a test sting !!!!";
+sprintf(buf, "this is a test buf!string:%s", str.c_str()); //out of buffer space
+....   
 ```
 例3:
 ```
-        string str = "this is a test string!!!!";
-        char buf[16] = {0};
-        strcpy(buf, str.c_str()); //out of buffer space
+string str = "this is a test string!!!!";
+char buf[16] = {0};
+strcpy(buf, str.c_str()); //out of buffer space
 ```
 类似的还存在隐患的函数还有：strcat,vsprintf等
 同样，memcpy, memset, memmove等一些内存操作函数在使用时也一定要注意。
@@ -60,10 +66,10 @@ for(int i=0; i<n; i++)// n < 32 or n > 32
 
 1.破坏了堆中的内存分配信息数据，特别是动态分配的内存块的内存信息数据，因为操作系统在分配和释放内存块时需要访问该数据，一旦该数据被破坏，以下的几种情况都可能会出现。
 ```
-        *** glibc detected *** free(): invalid pointer:
-        *** glibc detected *** malloc(): memory corruption:
-        *** glibc detected *** double free or corruption (out): 0x00000000005c18a0 ***
-        *** glibc detected *** corrupted double-linked list: 0x00000000005ab150 ***        
+*** glibc detected *** free(): invalid pointer:
+*** glibc detected *** malloc(): memory corruption:
+*** glibc detected *** double free or corruption (out): 0x00000000005c18a0 ***
+*** glibc detected *** corrupted double-linked list: 0x00000000005ab150 ***        
 ```
 2.破坏了程序自己的其他对象的内存空间，这种破坏会影响程序执行的不正确性，当然也会诱发coredump，如破坏了指针数据。
 
