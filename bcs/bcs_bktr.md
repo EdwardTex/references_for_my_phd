@@ -6,6 +6,8 @@
 
 [TL - Core dump cases](https://github.com/EdwardTex/references_for_my_phd/blob/main/bcs/tl_coredump.md) [[backup](https://www.cnblogs.com/zhenjing/archive/2011/01/26/memory_overwrite.html)]
 
+[TL - Cmdline debug tools](https://zhuanlan.zhihu.com/p/32843449)
+
 ### Compile
 
 [TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) | [doc](https://gperftools.github.io/gperftools/cpuprofile.html) | [zhihu](https://zhuanlan.zhihu.com/p/129380947)
