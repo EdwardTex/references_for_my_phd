@@ -2,6 +2,10 @@
 
 ## Tools
 
+### Debug
+
+[Core dump cases]() ([backup](https://www.cnblogs.com/zhenjing/archive/2011/01/26/memory_overwrite.html))
+
 ### Compile
 
 [TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) | [zhihu](https://zhuanlan.zhihu.com/p/129380947)
