@@ -4,11 +4,13 @@
 
 ### Debug
 
-[Core dump cases](https://github.com/EdwardTex/references_for_my_phd/blob/main/bcs/tl_coredump.md) [[backup](https://www.cnblogs.com/zhenjing/archive/2011/01/26/memory_overwrite.html)]
+[TL - Core dump cases](https://github.com/EdwardTex/references_for_my_phd/blob/main/bcs/tl_coredump.md) [[backup](https://www.cnblogs.com/zhenjing/archive/2011/01/26/memory_overwrite.html)]
 
 ### Compile
 
 [TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) | [zhihu](https://zhuanlan.zhihu.com/p/129380947)
+
+[TL - cpu/gpu comparisons](https://www.cpu-monkey.com/en/)
 
 ### Hashing
 
