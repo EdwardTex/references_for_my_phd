@@ -4,7 +4,7 @@
 
 ### Debug
 
-[Core dump cases](https://github.com/EdwardTex/references_for_my_phd/blob/main/bcs/tl_coredump.md) ([backup](https://www.cnblogs.com/zhenjing/archive/2011/01/26/memory_overwrite.html))
+[Core dump cases](https://github.com/EdwardTex/references_for_my_phd/blob/main/bcs/tl_coredump.md) [[backup](https://www.cnblogs.com/zhenjing/archive/2011/01/26/memory_overwrite.html)]
 
 ### Compile
 
