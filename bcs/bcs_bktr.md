@@ -8,7 +8,7 @@
 
 ### Compile
 
-[TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) | [zhihu](https://zhuanlan.zhihu.com/p/129380947)
+[TL - gperftools (Google Performance Tools)](https://github.com/gperftools/gperftools) | [doc](https://gperftools.github.io/gperftools/cpuprofile.html) | [zhihu](https://zhuanlan.zhihu.com/p/129380947)
 
 [TL - cpu/gpu comparisons](https://www.cpu-monkey.com/en/)
 
