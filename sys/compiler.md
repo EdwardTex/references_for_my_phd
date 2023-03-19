@@ -1,5 +1,9 @@
 # Compiler
 
+### Courses
+
+[Stanford CS 143](https://web.stanford.edu/class/cs143/) [Stanford CS 343](https://web.stanford.edu/class/cs343/)
+
 ### Books
 
 [LLVM Cookbook](https://github.com/iBreaker/book/blob/master/LLVM%20Cookbook.pdf)
