@@ -1,6 +1,14 @@
 # Academic Writing - Grammar & Structure
 
+## Presentation
+
+[Oral Presentation Advice by Mark D. Hill](https://pages.cs.wisc.edu/~markhill/conference-talk.html)
+
 ## General
+
+[How to build a model by Varian](http://www.sims.berkeley.edu/~hal/Papers/how.pdf)
+
+[The element of style](https://www.bartleby.com/lit-hub/the-elements-of-style/)
 
 [My short note on writing by qiong](https://www.cse.ust.hk/~luo/me/writing_advice.html)
 
