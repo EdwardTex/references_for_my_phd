@@ -4,6 +4,10 @@
 
 [UCSD-CSE260 GPU Programming and Architecture](https://cseweb.ucsd.edu/classes/fa15/cse260-a/lectures.html)
 
+[EPFL-CS451-Distributed Algorithm](https://dcl.epfl.ch/site/education/da)
+
+[EPFL-CS453-Concurrent Algorithm](https://dcl.epfl.ch/site/education/ca_2021)
+
 ### Talks
 
 [TK - Ion Stoica: Spark, Ray, and Enterprise Open Source](https://www.youtube.com/watch?v=-MVLURFH5nk) [[sum1]](https://zhuanlan.zhihu.com/p/464071406) [[sum2]](https://zhuanlan.zhihu.com/p/463958487)
