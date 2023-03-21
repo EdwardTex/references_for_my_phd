@@ -14,7 +14,7 @@
 
 ### Tutotial
 
-[TL - From GPT]()
+[TL - From GPT](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/tl_fromgpt.md)
 
 ### Books
 
