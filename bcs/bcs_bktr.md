@@ -16,6 +16,8 @@
 
 ### Hashing
 
+[TL - improvement of STL unordered_map](https://zhuanlan.zhihu.com/p/614105687)
+
 [TL - Sparsepp: A fast, memory efficient hash map for C++](https://github.com/greg7mdp/sparsepp)
 
 [TL - The Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap)
