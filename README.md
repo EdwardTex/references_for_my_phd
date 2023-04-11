@@ -6,6 +6,8 @@
 
 [VLDB](https://github.com/EdwardTex/references_for_my_phd/blob/main/confread/confread_vldb.md)
 
+[ICDE](https://github.com/EdwardTex/references_for_my_phd/blob/main/confread/confread_icde.md)
+
 ## Graph
 
 [Paper Collection](https://github.com/EdwardTex/references_for_my_phd/blob/main/graph/graph_pp.md)
