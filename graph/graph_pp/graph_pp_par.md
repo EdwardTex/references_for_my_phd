@@ -12,6 +12,8 @@
 
 [Tesseract: Distributed, General Graph Pattern Mining on Evolving Graphs](https://dl.acm.org/doi/pdf/10.1145/3447786.3456253)
 
+[Parallelizing Sequential Graph Computations (GRAPE)](https://dl.acm.org/doi/10.1145/3035918.3035942) [[libgrape-lite]](https://github.com/alibaba/libgrape-lite)
+
 #### Distributed Decomposition
 
 Towards distributed bitruss decomposition on bipartite graphs [vldb ver.](https://www.vldb.org/pvldb/vol15/p1889-wang.pdf) [full ver.](https://keithyue.github.io/files/vldb22-DBitruss.pdf)
