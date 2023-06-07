@@ -24,6 +24,32 @@
 
 [B. Liu - Efficient Core Computation in Bipartite and Multilayer Graphs](https://unsworks.unsw.edu.au/fapi/datastream/unsworks:71240/SOURCE02?view=true)
 
+### Temporal
+
+#### k-core
+
+[Span-core decomposition for temporal networks: Algorithms and applications](https://dl.acm.org/doi/10.1145/3418226)
+
+[Core decomposition in large temporal graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7363809)
+
+[On querying historical k-cores](https://vldb.org/pvldb/vol14/p2033-wen.pdf)
+
+[Efficient temporal core maintenance of massive graphs](https://www.sciencedirect.com/science/article/pii/S0020025519310485/pdfft?md5=a7faea9e05b9deced1b68bf8b65ce417&pid=1-s2.0-S0020025519310485-main.pdf)
+
+#### k-truss
+
+[Research on K-truss Community Search Algorithm for Temporal Networks]()
+
+[Efficient Algorithms to Mine Maximal Span-Trusses From Temporal Graphs](https://arxiv.org/abs/2009.01928)
+
+#### bipartite
+
+[Efficient Temporal Butterfly Counting and Enumeration on Temporal Bipartite Graphs](https://arxiv.org/pdf/2306.00893)
+
+[Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs](http://vldb.org/pvldb/vol14/p1845-chen.pdf)
+
+
+
 ### Community Search
 
 [Community Search: Learn from Small Data](https://arxiv.org/abs/2201.00288)
