@@ -59,7 +59,7 @@
 
 [hardcore cs](https://github.com/spring2go/cs_study_plan)
 
-### Languages
+### Programming Languages
 
 #### Rust
 
@@ -119,6 +119,9 @@
 
 [TP - Knuth-Morris-Pratt for String](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247485226&idx=1&sn=11318aed06e7b24120256cb3d6c4456d&scene=21#wechat_redirect)
 
+### Math
+
+[Interactive Linear Algebra (Georgia Tech)](https://textbooks.math.gatech.edu/ila/index.html)
 
 
 ### Misc
