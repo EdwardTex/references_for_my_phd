@@ -25,6 +25,8 @@
 
 [TR - Graph Contraction](http://www.cs.cmu.edu/afs/cs/academic/class/15210-s14/www/lectures/graph-contract.pdf)
 
+[TR - The art of linear algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+
 ## Books
 
 [BK - Managing and Mining Graph Data](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6045-0.pdf)
