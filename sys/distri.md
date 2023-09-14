@@ -12,9 +12,21 @@
 
 [(Raft) In Search of an Understandable Consensus Algorithm](https://www.usenix.org/node/184041.)
 
+[Paxos vs Raft: Have we reached consensus on distributed consensus?](https://dl.acm.org/doi/pdf/10.1145/3380787.3393681)
+
+[Fast Paxos](https://link.springer.com/content/pdf/10.1007/s00446-006-0005-x.pdf)
+
+[Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/2016/12/paxos-simple-Copy.pdf)
+
 ### Blogs
 
 [微信PaxosStore内存云揭秘：十亿Paxos/分钟的挑战](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994526&idx=1&sn=255dd87bd8601919bda3d597c65439f3&chksm=bdbf0f0d8ac8861bad452606b302ca6655cf84ed161584a1246a8cb9fd1361ec1ac1386ffd92&scene=21#wechat_redirect)
+
+[将 paxos 和 raft 统一为一个协议: abstract-paxos](https://zhuanlan.zhihu.com/p/488629044)
+
+[可靠分布式系统-paxos的直观解释](https://zhuanlan.zhihu.com/p/145044486)
+
+[raft算法与paxos算法相比有什么优势，使用场景有什么差异？ - 朱一聪的回答 - 知乎](https://www.zhihu.com/question/36648084/answer/82332860)
 
 ### Courses
 
