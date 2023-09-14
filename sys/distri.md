@@ -22,6 +22,8 @@
 
 ### Tutotial
 
+[写CUDA到底难在哪？ - 金雪锋的回答 - 知乎](https://www.zhihu.com/question/437131193/answer/1685402769)
+
 [TL - From GPT](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/tl_fromgpt.md)
 
 [CUDA Guidelines](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
