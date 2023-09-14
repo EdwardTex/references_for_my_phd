@@ -2,6 +2,14 @@
 
 ### Papers
 
+[Leslie Lamport](https://scholar.google.com/citations?user=uG3icVgAAAAJ)
+
+[Time, Clocks, and the Ordering of Events in a Distributed System](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uG3icVgAAAAJ&citation_for_view=uG3icVgAAAAJ:hFOr9nPyWt4C)
+
+[The Part-Time Parliament](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uG3icVgAAAAJ&citation_for_view=uG3icVgAAAAJ:2tRrZ1ZAMYUC)
+
+[The Byzantine generals problem](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uG3icVgAAAAJ&citation_for_view=uG3icVgAAAAJ:U4n9YNQMCAIC)
+
 [(Raft) In Search of an Understandable Consensus Algorithm](https://www.usenix.org/node/184041.)
 
 ### Blogs
