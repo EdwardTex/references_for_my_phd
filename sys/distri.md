@@ -1,5 +1,9 @@
 # Distributed
 
+### Blogs
+
+[微信PaxosStore内存云揭秘：十亿Paxos/分钟的挑战](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994526&idx=1&sn=255dd87bd8601919bda3d597c65439f3&chksm=bdbf0f0d8ac8861bad452606b302ca6655cf84ed161584a1246a8cb9fd1361ec1ac1386ffd92&scene=21#wechat_redirect)
+
 ### Courses
 
 [UCSD-CSE260 GPU Programming and Architecture](https://cseweb.ucsd.edu/classes/fa15/cse260-a/lectures.html)
