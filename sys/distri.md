@@ -16,6 +16,8 @@
 
 [TL - From GPT](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/tl_fromgpt.md)
 
+[CUDA Guidelines](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+
 ### Books
 
 [BK - Operating Systems: Three Easy Pieces (page ver.)](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) [[pdf ver.]](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf)
