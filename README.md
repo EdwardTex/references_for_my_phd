@@ -22,6 +22,8 @@
 
 [Compiler](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/compiler.md)
 
+[Quant](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/quant.md)
+
 
 ## TCS
 
