@@ -50,6 +50,8 @@
 
 [CUDA Guidelines](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
+[NVCC doc](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html)
+
 [Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/pdf/1804.06826)
 
 ### Books
