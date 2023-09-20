@@ -50,6 +50,8 @@
 
 [CUDA Guidelines](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
+[Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/pdf/1804.06826)
+
 ### Books
 
 [BK - Operating Systems: Three Easy Pieces (page ver.)](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) [[pdf ver.]](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf)
