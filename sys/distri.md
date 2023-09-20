@@ -54,6 +54,8 @@
 
 ### Books
 
+[Linux高性能服务器编程](https://dark-wind.github.io/books/Linux%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%96%E7%A8%8B.pdf)
+
 [BK - Operating Systems: Three Easy Pieces (page ver.)](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) [[pdf ver.]](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf)
 
 [BK - P.M: Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
