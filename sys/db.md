@@ -1,5 +1,9 @@
 # Database
 
+### Vector DB
+
+[Survey of Vector Database Management Systems](https://arxiv.org/pdf/2310.14021)
+
 ### Tutorials
 
 [目前国内数据库学习与人才的培养都有哪些方式？ - Ray Eldath的回答](https://www.zhihu.com/question/532142039/answer/2485903352)
