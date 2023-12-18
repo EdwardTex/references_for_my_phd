@@ -12,6 +12,8 @@
 
 [Database VLDB and Partitioning Guide](https://docs.oracle.com/database/121/VLDBG/title.htm)
 
+[Performance Optimization](https://perf.bcmeng.com/9%20learn/)
+
 ### Paper Collection
 
 [PR - Classical Algorithms](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/db/db_pp_ca.md)
