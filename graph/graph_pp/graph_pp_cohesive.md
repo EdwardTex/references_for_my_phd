@@ -52,7 +52,7 @@
 
 ### Community Search
 
-[Community Search: Learn from Small Data](https://arxiv.org/abs/2201.00288)
+[Community Search: A Meta-Learning Approach (Community Search: Learn from Small Data)](https://arxiv.org/abs/2201.00288)
 
 [Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p1723-jian.pdf)
 
