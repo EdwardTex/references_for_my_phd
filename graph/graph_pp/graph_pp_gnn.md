@@ -14,6 +14,12 @@
 
 ### TR
 
+[Distill - A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+
+[Distill - Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
+
+[Distill - Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+
 [TR - Deepmind: Theoretical Foundations of Graph Neural Networks](https://petar-v.com/talks/GNN-Wednesday.pdf)
 
 ### Courses
