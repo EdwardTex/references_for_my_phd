@@ -13,6 +13,8 @@
 
 ## TechReps (Tutorials)
 
+[Yale - CPSC 768 - Scalable and Private Graph Algorithms](https://quanquancliu.com/cpsc768.html)
+
 [TR - Papers on Graph Analytics (from MIT CSAIL)](https://people.csail.mit.edu/jshun/graph.shtml)
 
 [TR - NOIP](https://github.com/huzecong/oi-slides/blob/master/2015-noip-graph-theory/%E5%9B%BE%E8%AE%BA_final.pdf)
