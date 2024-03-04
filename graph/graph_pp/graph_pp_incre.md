@@ -1,5 +1,7 @@
 # Incremental Algorithm
 
+[SPAA22 Best Paper - Parallel Batch-Dynamic Algorithms for 𝑘-Core Decomposition and Related Graph Problems](https://dl.acm.org/doi/pdf/10.1145/3490148.3538569) [[code]](https://github.com/qqliu/batch-dynamic-kcore-decomposition)
+
 [Agenda: Robust Personalized PageRanks in Evolving Graphs](https://dl.acm.org/doi/abs/10.1145/3459637.3482317)
 
 [EIGA: elastic and scalable dynamic graph analysis](https://dl.acm.org/doi/pdf/10.1145/3458817.3480857)
