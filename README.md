@@ -16,6 +16,8 @@
 
 ## Sys
 
+[LLM](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/llm.md)
+
 [Database](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/db.md)
 
 [Distributed](https://github.com/EdwardTex/references_for_my_phd/blob/main/sys/distri.md)
