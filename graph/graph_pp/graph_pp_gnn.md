@@ -25,3 +25,7 @@
 ### Courses
 
 [CR - CS224W-GML(2021S)](https://mp.weixin.qq.com/s?__biz=MzUyNzcyNzE0Mg==&mid=2247500163&idx=1&sn=f6d9b0e9f2d7467274136ca5940d63f8&chksm=fa79aecacd0e27dc9dc2951d69b5c40b3d2113dffe88e6912fb41662e9a37d151e6d6b2abaa4&mpshare=1&scene=24&srcid=0425Z3k3w2WA6sTqoew0ortw&sharer_sharetime=1619335374988&sharer_shareid=d83a9486063ac231dfde82323ca7dc67&exportkey=AegJ8J9eTgBihtQspmLAKNE%3D&pass_ticket=FGICLXX1hGltNGrN%2BVm3hD0YNETP2ujITYEefo%2Fe9ZXokPM1h3yZ1B8aspqiG2Y6&wx_header=0#rd)
+
+### Papers
+
+[SANCUS: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks](https://vldb.org/pvldb/vol15/p1937-peng.pdf) [[video]][https://www.bilibili.com/video/BV1Hk4y1h7Qf/?vd_source=6a7d7554f543c8bd484c4f2ef1d3749f]
