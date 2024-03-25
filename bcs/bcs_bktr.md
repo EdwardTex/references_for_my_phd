@@ -75,6 +75,26 @@
 
 [Runoob Tr](https://www.runoob.com/go/go-tutorial.html)
 
+#### Java
+
+[Java advanced Tr - Runoob](https://www.runoob.com/java/java-data-structures.html)
+
+[Java 中文面试指北] [[op1]](https://github.com/Snailclimb/JavaGuide) [[op2]](https://hadyang.github.io/interview/) [[op3]](https://github.com/gzc426/Java-Interview)
+
+[Java Basic Introduction](https://github.com/JackChan1999/Java_Basic_Introduction)
+
+[Algorithms in Java] [[op1]](https://github.com/bianxinhuan/Play-with-Algorithms/tree/master) [[op2]](https://github.com/h2pl/leetcode)
+
+[JPM - Super Simple Stock] [[op1]](https://github.com/omikron15/JP-Morgan-Java) [[op2]](https://github.com/codecrocodile/super-simple-stocks)
+
+[JPM - Roman Numeral Converter](https://github.com/codecrocodile/roman-numeral-converter)
+
+[JPM - Multi-thread Generic Message Processor](https://github.com/codecrocodile/multi-threaded-generic-processor)
+
+[JPM - Multi-thread Instruction Processor](https://github.com/codecrocodile/multi-threaded-instruction-processor)
+
+
+
 ### Design Pattern
 
 [Runoob Tr](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
