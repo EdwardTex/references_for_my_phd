@@ -14,6 +14,8 @@
 
 ### Blogs
 
+[Fine-tuning LLMs for longer context and better RAG systems](https://www.anyscale.com/blog/fine-tuning-llms-for-longer-context-and-better-rag-systems)
+
 [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
 
 [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646/answer/3405060345)
