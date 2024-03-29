@@ -18,6 +18,8 @@
 
 ### TR
 
+[图神经网络真的有意义吗？](https://www.zhihu.com/question/528852359)
+
 [Distill - A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 
 [Distill - Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
