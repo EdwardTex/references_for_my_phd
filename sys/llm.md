@@ -10,7 +10,11 @@
 
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://openreview.net/pdf?id=RRntzKrBTp)
 
+
+
 ### Blogs
+
+[大模型训练之序列并行双雄：DeepSpeed Ulysses & Ring-Attention](https://zhuanlan.zhihu.com/p/689067888)
 
 [A100/H100 太贵，何不用 4090？](https://01.me/2023/09/h100-vs-4090/) [backup](https://zhuanlan.zhihu.com/p/655402388)
 
