@@ -14,6 +14,8 @@
 
 ### Blogs
 
+[Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
+
 [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646/answer/3405060345)
 
 [大模型训练之序列并行双雄：DeepSpeed Ulysses & Ring-Attention](https://zhuanlan.zhihu.com/p/689067888)
