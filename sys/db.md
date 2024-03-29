@@ -4,6 +4,8 @@
 
 [Survey of Vector Database Management Systems](https://arxiv.org/pdf/2310.14021)
 
+[可用的向量数据库(vector DB)有哪些？](https://www.zhihu.com/question/610087406/answer/3446465314) [(Backup)](https://arcsin2.cloud/2024/03/26/DBMS-for-ANNS-%E4%B8%80%E8%A7%88/)
+
 #### ANNS
 
 [Benchmarking nearest neighbors](https://github.com/erikbern/ann-benchmarks)
