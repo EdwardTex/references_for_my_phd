@@ -14,6 +14,8 @@
 
 ### Blogs
 
+[为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646/answer/3405060345)
+
 [大模型训练之序列并行双雄：DeepSpeed Ulysses & Ring-Attention](https://zhuanlan.zhihu.com/p/689067888)
 
 [A100/H100 太贵，何不用 4090？](https://01.me/2023/09/h100-vs-4090/) [backup](https://zhuanlan.zhihu.com/p/655402388)
