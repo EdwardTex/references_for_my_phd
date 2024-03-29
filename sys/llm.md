@@ -10,7 +10,7 @@
 
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://openreview.net/pdf?id=RRntzKrBTp)
 
-
+[LLM Serving - OSDI'24 Paper list](https://www.zhihu.com/question/649626302/answer/3440577248)
 
 ### Blogs
 
