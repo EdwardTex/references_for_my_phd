@@ -14,6 +14,8 @@
 
 ### Blogs
 
+[Bojie Li - 我是如何走上 AI 创业之路的](https://zhuanlan.zhihu.com/p/689821495)
+
 [Fine-tuning LLMs for longer context and better RAG systems](https://www.anyscale.com/blog/fine-tuning-llms-for-longer-context-and-better-rag-systems)
 
 [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
