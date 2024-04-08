@@ -85,6 +85,8 @@
 
 ### Core
 
+[Parallel k-Core Decomposition with Batched Updates and Asynchronous Reads (PPoPP'24)](https://dl.acm.org/doi/10.1145/3627535.3638508)
+
 [Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search (ICDE'22)](https://ieeexplore.ieee.org/document/9835629)
 
 [Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
