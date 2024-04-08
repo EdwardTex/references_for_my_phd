@@ -85,6 +85,8 @@
 
 ### Core
 
+[Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search (ICDE'22)](https://ieeexplore.ieee.org/document/9835629)
+
 [Parallel Batch-Dynamic k-Core Decomposition](https://arxiv.org/pdf/2106.03824)
 
 [Hierarchical Core Maintenance on Large Dynamic Graphs](https://dl.acm.org/doi/pdf/10.14778/3446095.3446099)
