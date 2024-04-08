@@ -52,6 +52,10 @@
 
 ### Community Search
 
+[Neural Attributed Community Search at Billion Scale (SIGMOD'24)](https://arxiv.org/abs/2403.18874)
+
+[On Breaking Truss-Based and Core-Based Communities (ACM TKDD'24)](https://dl.acm.org/doi/10.1145/3644077)
+
 [Community Search: A Meta-Learning Approach (Community Search: Learn from Small Data)](https://arxiv.org/abs/2201.00288)
 
 [Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks](http://www.vldb.org/pvldb/vol13/p1723-jian.pdf)
