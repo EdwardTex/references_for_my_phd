@@ -23,6 +23,8 @@ Retrieval-Augmented Generation [[IBM]](https://research.ibm.com/blog/retrieval-a
 
 [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/project/graphrag/overview/)
 
+[2024年大模型LLM还有哪些可研究的方向？](https://www.zhihu.com/question/637595961/answer/3483115960)
+
 ### Blogs
 
 [Bojie Li - 我是如何走上 AI 创业之路的](https://zhuanlan.zhihu.com/p/689821495)
