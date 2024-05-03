@@ -14,11 +14,18 @@
 
 [LLM Serving - OSDI'24 Paper list](https://www.zhihu.com/question/649626302/answer/3440577248)
 
+
+### RAG
+
+Retrieval-Augmented Generation [[IBM]](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) [[NV]](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+
+[Fine-tuning LLMs for longer context and better RAG systems](https://www.anyscale.com/blog/fine-tuning-llms-for-longer-context-and-better-rag-systems)
+
+[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/project/graphrag/overview/)
+
 ### Blogs
 
 [Bojie Li - 我是如何走上 AI 创业之路的](https://zhuanlan.zhihu.com/p/689821495)
-
-[Fine-tuning LLMs for longer context and better RAG systems](https://www.anyscale.com/blog/fine-tuning-llms-for-longer-context-and-better-rag-systems)
 
 [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
 
@@ -27,8 +34,6 @@
 [大模型训练之序列并行双雄：DeepSpeed Ulysses & Ring-Attention](https://zhuanlan.zhihu.com/p/689067888)
 
 [A100/H100 太贵，何不用 4090？](https://01.me/2023/09/h100-vs-4090/) [backup](https://zhuanlan.zhihu.com/p/655402388)
-
-Retrieval-Augmented Generation [[IBM]](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) [[NV]](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 
 [Roofline Model与深度学习模型的性能分析](https://zhuanlan.zhihu.com/p/34204282)
 
