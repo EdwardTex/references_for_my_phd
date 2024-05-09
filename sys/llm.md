@@ -27,6 +27,8 @@ Retrieval-Augmented Generation [[IBM]](https://research.ibm.com/blog/retrieval-a
 
 [Azure AI Search : RAG 的最佳检索方式 - 混合检索+语义重排](https://mp.weixin.qq.com/s/NQbLQFUpxcjUhsD9fCDy1A)
 
+[Vector databases and knowledge graphs: The cornerstones of effective RAG](https://www.exlservice.com/insights/white-paper/vector-databases-and-knowledge-graphs-the-cornerstones-of-effective-rag)
+
 ### Blogs
 
 [Bojie Li - 我是如何走上 AI 创业之路的](https://zhuanlan.zhihu.com/p/689821495)
