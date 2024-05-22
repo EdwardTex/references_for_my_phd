@@ -14,6 +14,12 @@
 
 [LLM Serving - OSDI'24 Paper list](https://www.zhihu.com/question/649626302/answer/3440577248)
 
+### AI4EDA
+
+[iEDA: An Open-source infrastructure of EDA](https://ieeexplore.ieee.org/document/10473983)
+
+[LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation](https://arxiv.org/pdf/2401.12224)
+
 
 ### RAG
 
