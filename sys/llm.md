@@ -25,6 +25,8 @@
 
 Retrieval-Augmented Generation [[IBM]](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) [[NV]](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 
+[Survey github repo](https://github.com/hymie122/RAG-Survey)
+
 [Fine-tuning LLMs for longer context and better RAG systems](https://www.anyscale.com/blog/fine-tuning-llms-for-longer-context-and-better-rag-systems)
 
 [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/project/graphrag/overview/)
