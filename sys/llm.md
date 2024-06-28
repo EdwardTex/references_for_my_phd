@@ -2,6 +2,21 @@
 
 ### KV Cache
 
+[Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs](https://arxiv.org/pdf/2310.01801)
+
+[Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/pdf/2305.17118)
+
+[KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization](https://arxiv.org/pdf/2401.18079)
+
+[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/pdf/2402.02750)
+
+[Layer-Condensed KV Cache for Efficient Inference of Large Language Models](https://arxiv.org/pdf/2405.10637)
+
+[KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization](https://arxiv.org/pdf/2405.03917)
+
+[A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression](https://arxiv.org/pdf/2406.11430)
+
+[Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache](https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf)
 
 
 ### General
