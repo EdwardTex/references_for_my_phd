@@ -1,18 +1,29 @@
 # LLM
 
-### Papers
+### KV Cache
 
-[Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://arxiv.org/pdf/2402.17152)
+
+
+### General
 
 [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf)
 
+[LLM Serving - OSDI'24 Paper list](https://www.zhihu.com/question/649626302/answer/3440577248)
+
+[Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://arxiv.org/pdf/2402.17152)
+
+### Training
+
 [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/pdf/2402.15627.pdf)
+
+
+### Inference
 
 [Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://openreview.net/pdf?id=wIPIhHd00i)
 
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://openreview.net/pdf?id=RRntzKrBTp)
 
-[LLM Serving - OSDI'24 Paper list](https://www.zhihu.com/question/649626302/answer/3440577248)
+
 
 ### AI4EDA
 
