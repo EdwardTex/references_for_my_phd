@@ -2,6 +2,8 @@
 
 ### KV Cache
 
+[Mooncake (1): 在月之暗面做月饼，Kimi 以 KVCache 为中心的分离式推理架构](https://zhuanlan.zhihu.com/p/705754254)
+
 [Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs](https://arxiv.org/pdf/2310.01801)
 
 [Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/pdf/2305.17118)
