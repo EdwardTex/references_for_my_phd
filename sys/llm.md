@@ -41,6 +41,11 @@
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://openreview.net/pdf?id=RRntzKrBTp)
 
 
+### GPU-view
+
+[Mélange: Cost Efficient Large Language Model Serving by Exploiting GPU Heterogeneity](https://arxiv.org/pdf/2404.14527)
+
+
 
 ### AI4EDA
 
