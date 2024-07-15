@@ -25,6 +25,8 @@
 
 [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf)
 
+[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/abs/10.1145/3600006.3613165)
+
 [LLM Serving - OSDI'24 Paper list](https://www.zhihu.com/question/649626302/answer/3440577248)
 
 [Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://arxiv.org/pdf/2402.17152)
