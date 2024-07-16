@@ -1,6 +1,6 @@
 # LLM
 
-### KV Cache
+### KV Cache / Linear Attention
 
 [Mooncake (1): 在月之暗面做月饼，Kimi 以 KVCache 为中心的分离式推理架构](https://zhuanlan.zhihu.com/p/705754254)
 
@@ -42,6 +42,9 @@
 
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://openreview.net/pdf?id=RRntzKrBTp)
 
+### Benchmark
+
+[MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models](https://arxiv.org/pdf/2406.13975)
 
 ### GPU-view
 
