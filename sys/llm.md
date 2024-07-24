@@ -1,6 +1,13 @@
 # LLM
 
+
 ### KV Cache / Linear Attention
+
+[由GQA性能数据异常引发的对MHA，GQA，MQA 在GPU上的感性分析](https://zhuanlan.zhihu.com/p/708776013)
+
+[CUDA编程中线程划分和数据分块 - PagedAttention（V1/V2）分析](https://zhuanlan.zhihu.com/p/710310530)
+
+[大模型Prefix场景Attention优化](https://zhuanlan.zhihu.com/p/709959195) [[2]](https://zhuanlan.zhihu.com/p/709989373) [[3]](https://zhuanlan.zhihu.com/p/710281067) [[4]](https://zhuanlan.zhihu.com/p/710499041)
 
 [Mooncake (1): 在月之暗面做月饼，Kimi 以 KVCache 为中心的分离式推理架构](https://zhuanlan.zhihu.com/p/705754254)
 
@@ -61,13 +68,17 @@
 
 ### RAG
 
+[对于大模型RAG技术的一些思考](https://zhuanlan.zhihu.com/p/670432927)
+
 Retrieval-Augmented Generation [[IBM]](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) [[NV]](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 
 [Survey github repo](https://github.com/hymie122/RAG-Survey)
 
 [Fine-tuning LLMs for longer context and better RAG systems](https://www.anyscale.com/blog/fine-tuning-llms-for-longer-context-and-better-rag-systems)
 
-[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/project/graphrag/overview/)
+[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/project/graphrag/overview/) [[azure-lib]](https://github.com/Azure-Samples/graphrag-accelerator) [[code]](https://github.com/microsoft/graphrag)
+
+[LLM之RAG理论（十二）| RAG和Graph RAG对比](https://zhuanlan.zhihu.com/p/710477309)
 
 [2024年大模型LLM还有哪些可研究的方向？](https://www.zhihu.com/question/637595961/answer/3483115960)
 
