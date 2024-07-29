@@ -57,7 +57,13 @@
 
 [Mélange: Cost Efficient Large Language Model Serving by Exploiting GPU Heterogeneity](https://arxiv.org/pdf/2404.14527)
 
+### AI4Sience
 
+[Towards Large Language Models as Copilots for Theorem Proving in Lean](https://arxiv.org/pdf/2404.12534)
+
+[The future of mathematics (Talk) - Kevin Buzzard](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
+
+[AlphaProof - AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 
 ### AI4EDA
 
