@@ -3,6 +3,8 @@
 
 ### KV Cache / Linear Attention
 
+[Project xDiT: 打造DiT并行推理的vLLM](https://zhuanlan.zhihu.com/p/712865032)
+
 [由GQA性能数据异常引发的对MHA，GQA，MQA 在GPU上的感性分析](https://zhuanlan.zhihu.com/p/708776013)
 
 [CUDA编程中线程划分和数据分块 - PagedAttention（V1/V2）分析](https://zhuanlan.zhihu.com/p/710310530)
