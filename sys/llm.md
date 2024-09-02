@@ -29,6 +29,9 @@
 
 [Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache](https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf)
 
+[DeepSeek-V2 高性能推理 (1)：通过矩阵吸收十倍提速 MLA 算子](https://zhuanlan.zhihu.com/p/700214123)
+
+[DeepSeek-V2 MLA KV Cache 真的省了吗？](https://zhuanlan.zhihu.com/p/714761319)
 
 ### General
 
@@ -75,6 +78,8 @@
 
 
 ### RAG
+
+[开卷翻到毒蘑菇？浅谈大模型检索增强（RAG）的鲁棒性](https://zhuanlan.zhihu.com/p/668347524)
 
 [对于大模型RAG技术的一些思考](https://zhuanlan.zhihu.com/p/670432927)
 
