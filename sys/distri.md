@@ -50,6 +50,8 @@
 
 ### Tutotial
 
+[NV_GPU tensor core](https://zhuanlan.zhihu.com/p/638129792)
+
 [hpc learning](https://github.com/l0ngc/hpc-learning)
 
 [写CUDA到底难在哪？ - 金雪锋的回答 - 知乎](https://www.zhihu.com/question/437131193/answer/1685402769)
