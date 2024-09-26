@@ -35,6 +35,10 @@
 
 ### General
 
+[Reverse-o1:OpenAI o1原理逆向工程图解](https://zhuanlan.zhihu.com/p/721952915)
+
+[技术神秘化的去魅：Sora关键技术逆向工程图解](https://zhuanlan.zhihu.com/p/687928845)
+
 [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf)
 
 [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/abs/10.1145/3600006.3613165)
