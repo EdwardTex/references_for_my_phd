@@ -1,6 +1,5 @@
 # References for My Phd
 
-https://docs.google.com/presentation/d/1P6Nnhqa9WuO1bU-4dvitmCrzu5vMB20R/edit?slide=id.p1#slide=id.p1
 
 ## Conference Reading List
 
